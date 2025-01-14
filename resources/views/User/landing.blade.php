@@ -6,7 +6,7 @@
                 <div class="section-angled-layer-bottom bg-light"></div>
                 <div class="section-angled-content">
                     <div class="custom-heading-1">
-                        <strong>Marketing</strong>
+                        <strong>MARKETING KEREN ABISS</strong>
                     </div>
                     <div class="container py-3 py-lg-5 p-relative z-index-1">
                         <div class="row py-5">
