@@ -7,7 +7,7 @@
                 <div class="section-angled-content">
                     <div class="custom-heading-1">
                         <strong>MARKETING KEREN ABISS</strong>
-                        <strong>Test 123</strong>
+                        <strong>Test woii asw </strong>
                     </div>
                     <div class="container py-3 py-lg-5 p-relative z-index-1">
                         <div class="row py-5">
