@@ -14,8 +14,8 @@
     <meta name="author" content="okler.net">
 
     <!-- Favicon -->
-    <link rel="shortcut icon" href="assets/img/favicon.ico" type="image/x-icon" />
-    <link rel="apple-touch-icon" href="assets/img/apple-touch-icon.png">
+    <link rel="shortcut icon" href="{{ asset('assets/img/favicon.ico')}}" type="image/x-icon" />
+    <link rel="apple-touch-icon" href="{{ asset('assets/img/apple-touch-icon.png')}}">
 
     <!-- Mobile Metas -->
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no">
@@ -24,7 +24,7 @@
     <link id="googleFonts" href="https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet" type="text/css">
 
     <!-- Vendor CSS -->
-    <link rel="stylesheet" href="{{asset('assets/vendor/bootstrap/css/bootstrap.min.css')}}">
+    <link rel="stylesheet" href="{{ asset('assets/vendor/bootstrap/css/bootstrap.min.css')}}">
     <link rel="stylesheet" href="{{ asset('assets/vendor/fontawesome-free/css/all.min.css') }}"> 
     <link rel="stylesheet" href="{{ asset('assets/vendor/animate/animate.compat.css') }}"> 
     <link rel="stylesheet" href="{{ asset('assets/vendor/simple-line-icons/css/simple-line-icons.min.css') }}"> 
@@ -39,13 +39,13 @@
     <link rel="stylesheet" href="{{ asset('assets/css/theme-shop.css') }}"> 
 
     <!-- Demo CSS -->
-    <link rel="stylesheet" href="assets/css/demos/demo-marketing-1.css">
+    <link rel="stylesheet" href="{{asset('assets/css/demos/demo-marketing-1.css')}}">
 
     <!-- Skin CSS -->
-    <link id="skinCSS" rel="stylesheet" href="assets/css/skins/skin-marketing-1.css">
+    <link id="skinCSS" rel="stylesheet" href="{{asset('assets/css/skins/skin-marketing-1.css')}}">
 
     <!-- Theme Custom CSS -->
-    <link rel="stylesheet" href="assets/css/custom.css">
+    <link rel="stylesheet" href="{{asset('assets/css/custom.css')}}">
 
 </head>
 
@@ -59,7 +59,7 @@
                         <div class="header-column">
                             <div class="header-row">
                                 <div class="header-logo">
-                                    <a href="demo-marketing-1.html">
+                                    <a href="/landing">
                                         <img alt="Porto" width="130" height="32" src="assets/img/demos/marketing-1/logo.png">
                                     </a>
                                 </div>
