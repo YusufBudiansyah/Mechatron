@@ -25,18 +25,18 @@
 
     <!-- Vendor CSS -->
     <link rel="stylesheet" href="{{asset('assets/vendor/bootstrap/css/bootstrap.min.css')}}">
-    <link rel="stylesheet" href="assets/vendor/fontawesome-free/css/all.min.css">
-    <link rel="stylesheet" href="assets/vendor/animate/animate.compat.css">
-    <link rel="stylesheet" href="assets/vendor/simple-line-icons/css/simple-line-icons.min.css">
-    <link rel="stylesheet" href="assets/vendor/owl.carousel/assets/owl.carousel.min.css">
-    <link rel="stylesheet" href="assets/vendor/owl.carousel/assets/owl.theme.default.min.css">
-    <link rel="stylesheet" href="assets/vendor/magnific-popup/magnific-popup.min.css">
+    <link rel="stylesheet" href="{{ asset('assets/vendor/fontawesome-free/css/all.min.css') }}"> 
+    <link rel="stylesheet" href="{{ asset('assets/vendor/animate/animate.compat.css') }}"> 
+    <link rel="stylesheet" href="{{ asset('assets/vendor/simple-line-icons/css/simple-line-icons.min.css') }}"> 
+    <link rel="stylesheet" href="{{ asset('assets/vendor/owl.carousel/assets/owl.carousel.min.css') }}"> 
+    <link rel="stylesheet" href="{{ asset('assets/vendor/owl.carousel/assets/owl.theme.default.min.css') }}"> 
+    <link rel="stylesheet" href="{{ asset('assets/vendor/magnific-popup/magnific-popup.min.css') }}"> 
 
     <!-- Theme CSS -->
-    <link rel="stylesheet" href="assets/css/theme.css">
-    <link rel="stylesheet" href="assets/css/theme-elements.css">
-    <link rel="stylesheet" href="assets/css/theme-blog.css">
-    <link rel="stylesheet" href="assets/css/theme-shop.css">
+    <link rel="stylesheet" href="{{ asset('assets/css/theme.css') }}"> 
+    <link rel="stylesheet" href="{{ asset('assets/css/theme-elements.css') }}"> 
+    <link rel="stylesheet" href="{{ asset('assets/css/theme-blog.css') }}"> 
+    <link rel="stylesheet" href="{{ asset('assets/css/theme-shop.css') }}"> 
 
     <!-- Demo CSS -->
     <link rel="stylesheet" href="assets/css/demos/demo-marketing-1.css">
@@ -72,7 +72,7 @@
                                         <nav class="collapse">
                                             <ul class="nav nav-pills" id="mainNav">
                                                 <li>
-                                                    <a class="nav-link active" href="demo-marketing-1.html">
+                                                    <a class="nav-link active" href="/landing">
                                                         Home
                                                     </a>
                                                 </li>
@@ -80,40 +80,37 @@
                                                     <a href="#" class="dropdown-item dropdown-toggle text-hover-primary">About</a>
                                                     <ul class="dropdown-menu">
                                                         <li>
-                                                            <a href="demo-marketing-1-who-we-are.html" class="nav-link">Who We Are</a>
+                                                            <a href="/about1" class="nav-link">Who We Are</a>
                                                         </li>
                                                         <li>
-                                                            <a href="demo-marketing-1-our-team.html" class="nav-link">Our Team</a>
+                                                            <a href="/team" class="nav-link">Our Team</a>
                                                         </li>
                                                     </ul>
                                                 </li>
                                                 <li>
-                                                    <a class="nav-link" href="demo-marketing-1-services.html">
+                                                    <a class="nav-link" href="/service">
                                                         Services
                                                     </a>
                                                 </li>
                                                 <li>
-                                                    <a class="nav-link" href="demo-marketing-1-our-process.html">
+                                                    <a class="nav-link" href="/process">
                                                         Our Process
                                                     </a>
                                                 </li>
                                                 <li class="dropdown dropdown-full-color dropdown-dark">
-                                                    <a href="demo-marketing-1-case-studies.html" class="dropdown-item dropdown-toggle text-hover-primary">Case Studies</a>
+                                                    <a href="/casestud" class="dropdown-item dropdown-toggle text-hover-primary">Case Studies</a>
                                                     <ul class="dropdown-menu">
                                                         <li>
-                                                            <a href="demo-marketing-1-case-studies.html" class="nav-link">Case Studies List</a>
+                                                            <a href="/casestud" class="nav-link">Case Studies List</a>
                                                         </li>
                                                         <li>
-                                                            <a href="demo-marketing-1-case-studies-details.html" class="nav-link">Case Studies Details</a>
+                                                            <a href="/studdetails" class="nav-link">Case Studies Details</a>
                                                         </li>
                                                     </ul>
                                                 </li>
                                                 <li class="dropdown dropdown-mega">
-                                                    <a class="dropdown-item dropdown-toggle" href="elements.html">
+                                                    <a class="dropdown-item dropdown-toggle" href="elements.html"> Elements </a>
 
-                                                        Elements
-
-                                                    </a>
                                                     <ul class="dropdown-menu border-top border-top-light mt-0">
 
                                                         <li>
@@ -193,7 +190,7 @@
                                                     </ul>
                                                 </li>
                                                 <li>
-                                                    <a class="nav-link nav-link-custom-1" href="demo-marketing-1-contact-us.html">
+                                                    <a class="nav-link nav-link-custom-1" href="/contact">
                                                         <span>Let's Talk!</span>
                                                     </a>
                                                 </li>
@@ -228,13 +225,13 @@
                                 <div class="row mt-5">
                                     <div class="col-lg-4">
                                         <ul class="list list-unstyled text-4">
-                                            <li><a href="demo-marketing-1.html" class="text-color-hover-primary">Home</a></li>
-                                            <li><a href="demo-marketing-1-who-we-are.html" class="text-color-hover-primary">Who We Are</a></li>
-                                            <li><a href="demo-marketing-1-our-team.html" class="text-color-hover-primary">Our Team</a></li>
-                                            <li><a href="demo-marketing-1-services.html" class="text-color-hover-primary">Services</a></li>
-                                            <li><a href="demo-marketing-1-our-process.html" class="text-color-hover-primary">Our Process</a></li>
-                                            <li><a href="demo-marketing-1-case-studies.html" class="text-color-hover-primary">Case Studies</a></li>
-                                            <li><a href="demo-marketing-1-contact-us.html" class="text-color-hover-primary">Let's Talk!</a></li>
+                                            <li><a href="/landing" class="text-color-hover-primary">Home</a></li>
+                                            <li><a href="/about1" class="text-color-hover-primary">Who We Are</a></li>
+                                            <li><a href="/team" class="text-color-hover-primary">Our Team</a></li>
+                                            <li><a href="/service" class="text-color-hover-primary">Services</a></li>
+                                            <li><a href="/process" class="text-color-hover-primary">Our Process</a></li>
+                                            <li><a href="/casestud" class="text-color-hover-primary">Case Studies</a></li>
+                                            <li><a href="/contact" class="text-color-hover-primary">Let's Talk!</a></li>
                                         </ul>
                                     </div>
                                     <div class="mt-4 mt-lg-0 col-lg-4">
@@ -278,7 +275,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col text-center text-lg-start mb-4">
-                            <p class="text-3 mb-0 text-light opacity-5">Porto Marketing 1 | © 2024. All Rights Reserved.</p>
+                            <p class="text-3 mb-0 text-light opacity-5">Mechatron | © 2024. All Rights Reserved.</p>
                         </div>
                     </div>
                 </div>
