@@ -161,15 +161,25 @@
                                 </div>
 
                                 <div class="p-relative z-index-1">
-                                    <h2 class="mb-4 pb-2 text-10 font-weight-semibold ls-0">Our Culture</h2>
+                                    <h2 class="mb-4 pb-2 text-10 font-weight-semibold ls-0">Why Should Mechatron ?</h2>
 
-                                    <p class="text-4-5 text-dark">At Porto, our culture is the heart of who we are and what we do. We believe that a positive, collaborative environment is key to unlocking creativity and driving success. Our team thrives on innovation, diversity, and a shared passion for excellence.</p>
+                                    <h3 class="mb-2 pb-2 text-5 font-weight-semibold ls-0">Kami menawarkan sistem pembelajaran robotik yang lebih menyeluruh dan menyentuh berbagai aspek</h3>
 
-                                    <p class="text-4-5 text-dark">We foster a culture where every voice is heard, and every idea is valued. Open communication, mutual respect, and a commitment to continuous learning are the cornerstones of our workplace. We encourage our team members to take risks, think outside the box, and push the boundaries of what's possible in marketing.</p>
+                                    <p class="text-4-5 text-dark"> <strong>Math and science :</strong> Matematika dan ilmu pengetahuan merupakan pondasi sebuah teknologi</p>
 
-                                    <p class="text-4-5 text-dark">Our work-life balance is a priority, ensuring that our team feels supported both professionally and personally. We celebrate our successes together, learn from our challenges, and always strive to be better than we were yesterday.</p>
+                                    <p class="text-4-5 text-dark"> <strong>Logic :</strong> Mengapa belajar Logika? Mungkin hal penting untuk diberikan kepada anak Anda untuk mempersiapkan dirinya menghadapi dunia ini adalah kemampuan berpikir logis</p>
 
-                                    <p class="text-4-5 text-dark">At Porto, we’re more than just colleagues—we’re a family. We believe that when people feel empowered and inspired, they produce their best work. This philosophy not only fuels our own growth but also drives the success of our clients.</p>
+                                    <p class="text-4-5 text-dark"> <strong>Analysis :</strong>Analisis adalah salah satu bagian awal proses desain, sehingga anak terbiasa untuk melakukan analisa sebelum membuat sesuatu.</p>
+
+                                    <p class="text-4-5 text-dark"> <strong>Problem Solving :</strong> Mencari permasalahan dan memecahkannya akan sering dialami seseorang, sehingga melatih sejak dini akan sangat baik untuk masa depannya</p>
+
+                                    <p class="text-4-5 text-dark"> <strong>Creativity :</strong> Kami merangsang anak untuk dapat mengubah ide dan imajinasi mereka menjadi sebuah kenyataan.</p>
+
+                                    <p class="text-4-5 text-dark"> <strong>Communication :</strong> Pembelajaran yang kami kembangkan merupakan sistem 2 arah, yang berarti siswa ikut berperan aktif dalam kegiatan belajar mengajar, yang berpengaruh terhadap perkembangan kemampuan verbalnya</p>
+
+                                    <p class="text-4-5 text-dark"><strong>Team Work : </strong> TEAM adalah together everyone achieve more, yang dibutuhkan anak untuk membuat suatu project.</p>
+
+                                    <p class="text-4-5 text-dark"><strong>Character Building:</strong>knowledge is power, but character is more. Kami berharap dengan menanamkan nilai-nilai baik dalam proses pembelajaran akan ikut turut serta membentuk karakter yang diharapkan orangtua dan lingkungannya.</p>
 
                                 </div>
                             </div>
@@ -182,19 +192,26 @@
                                 </div>
 
                                 <div class="p-relative z-index-1">
-                                    <h2 class="mb-4 pb-2 text-10 font-weight-semibold ls-0">Our Values</h2>
+                                    <h2 class="mb-4 pb-2 text-10 font-weight-semibold ls-0">Client List</h2>
 
-                                    <p class="text-4-5 text-dark">At Porto, our values guide everything we do, shaping our approach to work, relationships, and the impact we strive to make in the world. They are the foundation upon which we build our success and the success of our clients.</p>
-
-                                    <p class="text-4-5 text-dark"><strong>Integrity:</strong> We believe in doing the right thing, always. Honesty, transparency, and ethical practices are at the core of our business. We build trust with our clients and partners by staying true to our word and delivering on our promises.</p>
-
-                                    <p class="text-4-5 text-dark"><strong>Innovation:</strong> The marketing landscape is constantly evolving, and so are we. We embrace change, seek out new ideas, and continuously push the boundaries of creativity. Our commitment to innovation ensures that we stay ahead of the curve and deliver cutting-edge solutions.</p>
-
-                                    <p class="text-4-5 text-dark"><strong>Collaboration:</strong> We believe that the best results come from working together. Our team thrives on collaboration, both internally and with our clients. By fostering a spirit of partnership, we achieve outcomes that exceed expectations.</p>
-
-                                    <p class="text-4-5 text-dark"><strong>Excellence:</strong> We are passionate about delivering the highest quality work in everything we do. From strategy to execution, we set high standards for ourselves and are relentless in our pursuit of excellence. Our clients’ success is our ultimate goal, and we settle for nothing less than exceptional.</p>
-
-                                    <p class="text-4-5 text-dark"><strong>Customer-Centricity:</strong> Our clients are at the heart of our business. We take the time to understand their unique needs, challenges, and goals, crafting personalized solutions that drive results. We are dedicated to providing outstanding service and building long-term relationships based on trust and mutual success.</p>
+                                    <p class="text-4-5 text-dark">SDIT Ummul Quro'</p>
+                                    <p class="text-4-5 text-dark">Mts Pembangunan</p>
+                                    <p class="text-4-5 text-dark">SDIT AL Qolam</p>
+                                    <p class="text-4-5 text-dark">SDIT AL Hikmah</p>
+                                    <p class="text-4-5 text-dark">SDI Sinar Cendekia</p>
+                                    <p class="text-4-5 text-dark">SMPI Sinar Cendekia</p>
+                                    <p class="text-4-5 text-dark">SDI Arrahman Islamic School</p>
+                                    <p class="text-4-5 text-dark">SDI Binakheir</p>
+                                    <p class="text-4-5 text-dark">Sekolah Citra Alam</p>
+                                    <p class="text-4-5 text-dark">SD Integral Hidayatullah</p>
+                                    <p class="text-4-5 text-dark">SDI Al Qudwah</p>
+                                    <p class="text-4-5 text-dark">SDMIT Nururrahman</p>
+                                    <p class="text-4-5 text-dark">SMPIT AL Haraqi</p>
+                                    <p class="text-4-5 text-dark">SDIT AL Haraqi</p>
+                                    <p class="text-4-5 text-dark">SMP Al Azhar Syifa Budi</p>
+                                    <p class="text-4-5 text-dark">SDI Al Azhar Syifa Budi</p>
+                                    <p class="text-4-5 text-dark">SDIT Darojatul 'ulum</p>
+                                    <p class="text-4-5 text-dark">SDIT Misbahushudur</p>
 
                                 </div>
                             </div>
