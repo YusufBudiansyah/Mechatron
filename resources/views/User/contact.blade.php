@@ -24,23 +24,24 @@
             <div class="col-xl-6">
                 <div class="appear-animation" data-appear-animation="fadeIn" data-appear-animation-delay="0">
                     <span class="bg-gradient text-light d-inline-block text-3-5 rounded-pill px-4 py-1 font-weight-medium mb-2">Let's Go</span>
-                    <h3 class="custom-font-1">Ready to elevate your brand? Reach out to us.</h3>
+                    <h3 class="custom-font-1">Nanti diganti yang ini sama Teks bawahnya</h3>
                     <p class="text-dark text-4-5 line-height-9 pt-2">
-                        We’re excited to hear from you! Whether you’re looking to start a new project, need advice on your current marketing strategy, or just want to learn more about our services, our team is here to help.
+                    Mechatron adalah suatu lembaga yang bergerak di bidang otomasi yang saat ini sedang mengembangkan pengajaran tentang mekatronika. Metode pengajaran diarahkan khususnya kepada para pelajar sekolah, mulai dari Preschool hingga High School.
                     </p>
 
-                    <ul class="list list-unstyled mx-auto mx-lg-0 my-4 pt-2 pb-1">
+                    <!--<ul class="list list-unstyled mx-auto mx-lg-0 my-4 pt-2 pb-1">
                         <li class="d-flex justify-content-center justify-content-lg-start align-items-center mb-4">
-                            <a href="mailto:porto@portotheme.com" class="d-inline-flex align-items-center text-decoration-none text-dark text-color-hover-primary font-weight-semibold text-6">porto@domain.com</a>
+                            <a href="mailto:porto@portotheme.com" class="d-inline-flex align-items-center text-decoration-none text-dark text-color-hover-primary font-weight-semibold text-6">mechatron.depok@gmail.com</a>
                         </li>
                         <li class="d-flex justify-content-center justify-content-lg-start align-items-center mb-4">
-                            <a href="tel:8001234567" class="d-inline-flex align-items-center text-decoration-none text-dark text-color-hover-primary font-weight-semibold text-6">800-123-4567</a>
+                            <a href="tel:02177204700" class="d-inline-flex align-items-center text-decoration-none text-dark text-color-hover-primary font-weight-semibold text-6">021-7720-4700</a>
                         </li>
-                    </ul>
+                    </ul>-->
 
-                    <a href="#" class="btn btn-modern btn-effect-4 btn-rounded btn-dark btn-social bg-hover-primary text-transform-none text-4 py-2 font-weight-medium mb-2">Instagram <i class="fas fa-arrow-right rotate-l-45 ms-2"></i></a>
-                    <a href="#" class="btn btn-modern btn-effect-4 btn-rounded btn-dark btn-social bg-hover-primary text-transform-none text-4 py-2 font-weight-medium mb-2">Facebook <i class="fas fa-arrow-right rotate-l-45 ms-2"></i></a>
-                    <a href="#" class="btn btn-modern btn-effect-4 btn-rounded btn-dark btn-social bg-hover-primary text-transform-none text-4 py-2 font-weight-medium mb-2">LinkedIn <i class="fas fa-arrow-right rotate-l-45 ms-2"></i></a>
+                    <a href="https://www.instagram.com/mechatron_robotic/" class="btn btn-modern btn-effect-4 btn-rounded btn-dark btn-social bg-hover-primary text-transform-none text-4 py-2 font-weight-medium mb-2">Instagram <i class="fas fa-arrow-right rotate-l-45 ms-1"></i></a>
+                    <a href="https://www.tiktok.com/@mechatron_robotic" class="btn btn-modern btn-effect-4 btn-rounded btn-dark btn-social bg-hover-primary text-transform-none text-4 py-2 font-weight-medium mb-2">Tiktok <i class="fas fa-arrow-right rotate-l-45 ms-1"></i></a>
+                    <a href="https://www.youtube.com/@mechatronstore" class="btn btn-modern btn-effect-4 btn-rounded btn-dark btn-social bg-hover-primary text-transform-none text-4 py-2 font-weight-medium mb-2">Youtube <i class="fas fa-arrow-right rotate-l-45 ms-1"></i></a>
+                    <a href="https://wa.me/+6282311880796" class="btn btn-modern btn-effect-4 btn-rounded btn-dark btn-social bg-hover-primary text-transform-none text-4 py-2 font-weight-medium mb-2">Whatsapp <i class="fas fa-arrow-right rotate-l-45 ms-1"></i></a>            
 
                 </div>
             </div>
@@ -53,17 +54,17 @@
                                     <img class="img-fluid custom-border-radius-1 mb-4" src="assets/img/demos/marketing-1/generic/generic-9.jpg" alt="">
 
                                     <div class="overflow-hidden">
-                                        <h2 class="text-color-dark font-weight-semi-bold line-height-3 text-4-5 mb-0 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="250">123 Street Name<br> <span class="text-4">Los Angeles, CA</span></h2>
+                                        <h2 class="text-color-dark font-weight-semi-bold line-height-3 text-4-5 mb-0 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="250">Jalan Margonda Raya no.1 Kota Depok, Jawa Barat<br> <!--<span class="text-3">Depok</span></h2>-->
                                     </div>
                                     <div class="overflow-hidden">
-                                        <a href="#"" class=" d-inline-block pt-2 font-weight-semi-bold border-color-primary text-decoration-none text-3-5 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="500"><i class="fa-solid fa-location-dot text-4 ps-1"></i> Get Directions</a>
+                                        <a href="https://maps.app.goo.gl/ZvxHpJ87JyLgc33P9" class=" d-inline-block pt-2 font-weight-semi-bold border-color-primary text-decoration-none text-3-5 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="500"><i class="fa-solid fa-location-dot text-4 ps-1"></i> Get Directions</a>
                                     </div>
-                                    <ul class="list list-unstyled text-color-dark font-weight-semi-bold text-3-5 pt-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="750">
+                                    <ul class="list list-unstyled text-color-dark font-weight-semi-bold text-2-4 pt-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="750">
                                         <li class="d-flex justify-content-center justify-content-lg-start align-items-center mb-2">
-                                            <span class="opacity-6 font-weight-medium">E-mail:</span> <a href="mailto:porto@domain.com" class="text-color-dark text-color-hover-primary text-decoration-none ms-1">porto@domain.com</a>
+                                            <span class="opacity-6 font-weight-medium">E-mail:</span> <a href="mailto:mechatron.depok@gmail.com" class="text-color-dark text-color-hover-primary text-decoration-none ms-1">mechatron.depok@gmail.com</a>
                                         </li>
                                         <li class="d-flex justify-content-center justify-content-lg-start align-items-center mb-0">
-                                            <span class="opacity-6 font-weight-medium">Phone:</span> <a href="tel:1234567890" class="text-color-dark text-color-hover-primary text-decoration-none ms-1">800-123-4567</a>
+                                            <span class="opacity-6 font-weight-medium">Phone:</span> <a href="tel:02177204700" class="text-color-dark text-color-hover-primary text-decoration-none ms-1">021 7720 4700</a>
                                         </li>
                                     </ul>
                                 </div>

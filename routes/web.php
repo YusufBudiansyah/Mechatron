@@ -50,6 +50,10 @@ Route::get('/contact', function () {
     return view('User.contact');
 });
 
+Route::get('/homes', function () {
+    return view('User.homes');
+});
+
 Route::get('/dashboard', function () {
     return view('dashboard');
 })->middleware(['auth', 'verified'])->name('dashboard');

@@ -7,7 +7,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Demo Marketing 1 | Porto - Multipurpose Website Template</title>
+    <title>Mechatron</title>
 
     <meta name="keywords" content="WebSite Template" />
     <meta name="description" content="Porto - Multipurpose Website Template">
@@ -74,6 +74,11 @@
                                                 <li>
                                                     <a class="nav-link active" href="/landing">
                                                         Home
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a class="nav-link active" href="/homes">
+                                                        Homes
                                                     </a>
                                                 </li>
                                                 <li class="dropdown dropdown-full-color dropdown-dark">
@@ -220,7 +225,7 @@
                                     <h3 class="custom-font-1 font-weight-semibold">Let’s make <span class="custom-decoration-2 d-inline-block">something</span> great together!</h3>
                                 </div>
 
-                                <a href="#" class="btn btn-modern btn-effect-4 btn-rounded btn-light text-dark text-hover-primary text-transform-none text-4 font-weight-medium mt-2 mb-2">Let's Talk! <i class="fas fa-arrow-right rotate-l-45 ms-2"></i></a>
+                                <a href="/contact" class="btn btn-modern btn-effect-4 btn-rounded btn-light text-dark text-hover-primary text-transform-none text-4 font-weight-medium mt-2 mb-2">Let's Talk! <i class="fas fa-arrow-right rotate-l-45 ms-2"></i></a>
 
                                 <div class="row mt-5">
                                     <div class="col-lg-4">
@@ -235,20 +240,24 @@
                                         </ul>
                                     </div>
                                     <div class="mt-4 mt-lg-0 col-lg-4">
-                                        <h4 class="text-8 ls-0 opacity-5 font-weight-medium">Let's Talk</h4>
+                                        <h4 class="text-8 ls-0 opacity-5 font-weight-medium">Contact Us</h4>
                                         <ul class="list list-unstyled mx-auto mx-lg-0 mt-4">
-                                            <li class="d-flex justify-content-center justify-content-lg-start align-items-center mb-4">
-                                                <a href="mailto:porto@portotheme.com" class="d-inline-flex align-items-center text-decoration-none text-light text-color-hover-primary font-weight-semibold text-6">porto@domain.com</a>
+                                        <li class="d-flex justify-content-center justify-content-lg-start align-items-center mb-4">
+                                                <a href="#" class="d-inline-flex align-items-center text-decoration-none text-light text-color-hover-primary font-weight-semibold text-4"> Jalan Margonda Raya no.1 Kota Depok, Jawa Barat</a>
                                             </li>
                                             <li class="d-flex justify-content-center justify-content-lg-start align-items-center mb-4">
-                                                <a href="tel:8001234567" class="d-inline-flex align-items-center text-decoration-none text-light text-color-hover-primary font-weight-semibold text-6">800-123-4567</a>
+                                                <a href="mailto:mechatron.depok@gmail.com" class="d-inline-flex align-items-center text-decoration-none text-light text-color-hover-primary font-weight-semibold text-4"> mechatron.depok@gmail.com</a>
+                                            </li>
+                                            <li class="d-flex justify-content-center justify-content-lg-start align-items-center mb-4">
+                                                <a href="tel:02177204700" class="d-inline-flex align-items-center text-decoration-none text-light text-color-hover-primary font-weight-semibold text-4">(021) 7720 4700</a>
                                             </li>
                                         </ul>
                                     </div>
                                     <div class="col-xl-4 pt-4 pt-xl-0">
-                                        <a href="#" class="btn btn-modern btn-effect-4 btn-rounded btn-dark btn-social bg-hover-primary text-transform-none text-4 py-2 font-weight-medium mb-2">Instagram <i class="fas fa-arrow-right rotate-l-45 ms-2"></i></a>
-                                        <a href="#" class="btn btn-modern btn-effect-4 btn-rounded btn-dark btn-social bg-hover-primary text-transform-none text-4 py-2 font-weight-medium mb-2">Facebook <i class="fas fa-arrow-right rotate-l-45 ms-2"></i></a>
-                                        <a href="#" class="btn btn-modern btn-effect-4 btn-rounded btn-dark btn-social bg-hover-primary text-transform-none text-4 py-2 font-weight-medium mb-2">LinkedIn <i class="fas fa-arrow-right rotate-l-45 ms-2"></i></a>
+                                        <a href="https://www.instagram.com/mechatron_robotic/" class="btn btn-modern btn-effect-4 btn-rounded btn-dark btn-social bg-hover-primary text-transform-none text-4 py-2 font-weight-medium mb-2">Instagram <i class="fas fa-arrow-right rotate-l-45 ms-2"></i></a>
+                                        <a href="https://www.tiktok.com/@mechatron_robotic" class="btn btn-modern btn-effect-4 btn-rounded btn-dark btn-social bg-hover-primary text-transform-none text-4 py-2 font-weight-medium mb-2">Tiktok <i class="fas fa-arrow-right rotate-l-45 ms-2"></i></a>
+                                        <a href="https://www.youtube.com/@mechatronstore" class="btn btn-modern btn-effect-4 btn-rounded btn-dark btn-social bg-hover-primary text-transform-none text-4 py-2 font-weight-medium mb-2">Youtube <i class="fas fa-arrow-right rotate-l-45 ms-2"></i></a>
+                                        <a href="https://wa.me/+6282311880796" class="btn btn-modern btn-effect-4 btn-rounded btn-dark btn-social bg-hover-primary text-transform-none text-4 py-2 font-weight-medium mb-2">Whatsapp <i class="fas fa-arrow-right rotate-l-45 ms-1"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -282,6 +291,97 @@
             </div>
         </footer>
     </div>
+
+    <footer id="footer">
+				<div class="container">
+					<div class="footer-ribbon">
+						<span>Get in Touch</span>
+					</div>
+					<div class="row py-5 my-4">
+						<div class="col-md-9 mb-4 mb-lg-0">
+							<h5 class="text-3 mb-3">ABOUT US</h5>
+							<p class="mt-2 mb-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eu pulvinar magna. Phasellus semper scelerisque purus, et semper nisl lacinia sit amet. Praesent venenatis turpis vitae purus semper, eget sagittis velit venenatis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos...</p>
+							<p><a href="#" class="btn-flat btn-xs text-color-light"><strong class="text-2">VIEW MORE</strong><i class="fas fa-angle-right p-relative top-1 ps-2"></i></a></p>
+							<div class="row pt-3">
+								<div class="col-6 col-lg-3 mb-4 mb-lg-0">
+									<h5 class="text-3 mb-3">BLOG</h5>
+									<ul class="list list-icons list-icons-sm mb-0">
+										<li><i class="fas fa-angle-right top-8"></i> <a class="link-hover-style-1" href="blog-full-width.html">Blog Full Width</a></li>
+										<li><i class="fas fa-angle-right top-8"></i> <a class="link-hover-style-1" href="blog-large-image.html">Blog Large Image</a></li>
+										<li><i class="fas fa-angle-right top-8"></i> <a class="link-hover-style-1" href="blog-medium-image.html">Blog Medium Image</a></li>
+										<li><i class="fas fa-angle-right top-8"></i> <a class="link-hover-style-1" href="blog-post.html">Single Post</a></li>
+									</ul>
+								</div>
+								<div class="col-6 col-lg-3 mb-4 mb-lg-0">
+									<h5 class="text-3 mb-3">PAGES</h5>
+									<ul class="list list-icons list-icons-sm mb-0">
+										<li><i class="fas fa-angle-right top-8"></i> <a class="link-hover-style-1" href="page-full-width.html">Full width</a></li>
+										<li><i class="fas fa-angle-right top-8"></i> <a class="link-hover-style-1" href="page-left-sidebar.html">Left sidebar</a></li>
+										<li><i class="fas fa-angle-right top-8"></i> <a class="link-hover-style-1" href="page-right-sidebar.html">Right sidebar</a></li>
+										<li><i class="fas fa-angle-right top-8"></i> <a class="link-hover-style-1" href="page-services.html">Services</a></li>
+									</ul>
+								</div>
+								<div class="col-6 col-lg-3 mb-4 mb-lg-0">
+									<h5 class="text-3 mb-3">PORTFOLIO</h5>
+									<ul class="list list-icons list-icons-sm mb-0">
+										<li><i class="fas fa-angle-right top-8"></i> <a class="link-hover-style-1" href="portfolio-2-columns.html">2 Columns</a></li>
+										<li><i class="fas fa-angle-right top-8"></i> <a class="link-hover-style-1" href="portfolio-3-columns.html">3 Columns</a></li>
+										<li><i class="fas fa-angle-right top-8"></i> <a class="link-hover-style-1" href="portfolio-4-columns.html">4 Columns</a></li>
+										<li><i class="fas fa-angle-right top-8"></i> <a class="link-hover-style-1" href="portfolio-single-wide-slider.html">Single Project</a></li>
+									</ul>
+								</div>
+								<div class="col-6 col-lg-3 mb-4 mb-lg-0">
+									<h5 class="text-3 mb-3">EXTRA</h5>
+									<ul class="list list-icons list-icons-sm mb-0">
+										<li><i class="fas fa-angle-right top-8"></i> <a class="link-hover-style-1" href="page-team.html">Team</a></li>
+										<li><i class="fas fa-angle-right top-8"></i> <a class="link-hover-style-1" href="page-services.html">Services</a></li>
+										<li><i class="fas fa-angle-right top-8"></i> <a class="link-hover-style-1" href="page-careers.html">Careers</a></li>
+										<li><i class="fas fa-angle-right top-8"></i> <a class="link-hover-style-1" href="page-faq.html">FAQ</a></li>
+									</ul>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-3 mb-4 mb-lg-0">
+							<h5 class="text-3 mb-3 pb-1">CONTACT US</h5>
+							<p class="text-8 text-color-light font-weight-bold"><a href="tel:0123456789" class="text-decoration-none text-color-light">(800) 123-4567</a></p>
+							<p class="mb-2">International: <a href="tel:0123456789" class="text-decoration-none">(333) 456-6670</a></p>
+							<p class="mb-2">Fax: (222) 531-8999</p>
+							<ul class="list list-icons list-icons-lg">
+								<li class="mb-1"><i class="far fa-dot-circle text-color-primary"></i><p class="m-0">234 Street Name, City Name</p></li>
+								<li class="mb-1"><i class="far fa-envelope text-color-primary"></i><p class="m-0"><a href="mailto:mail@example.com">mail@example.com</a></p></li>
+							</ul>
+							<ul class="footer-social-icons social-icons mt-4">
+								<li class="social-icons-facebook"><a href="http://www.facebook.com/" target="_blank" title="Facebook"><i class="fab fa-facebook-f text-2"></i></a></li>
+								<li class="social-icons-x"><a href="http://www.x.com/" target="_blank" title="X"><i class="fab fa-x-twitter text-2"></i></a></li>
+								<li class="social-icons-linkedin"><a href="http://www.linkedin.com/" target="_blank" title="Linkedin"><i class="fab fa-linkedin-in text-2"></i></a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div class="footer-copyright">
+					<div class="container py-2">
+						<div class="row py-4">
+							<div class="col-lg-1 d-flex align-items-center justify-content-center justify-content-lg-start mb-2 mb-lg-0">
+								<a href="index.html" class="logo pe-0 pe-lg-3">
+									<img alt="Porto Website Template" src="img/logo-footer.png" class="opacity-5" height="32">
+								</a>
+							</div>
+							<div class="col-lg-7 d-flex align-items-center justify-content-center justify-content-lg-start mb-4 mb-lg-0">
+								<p>© Copyright 2024. All Rights Reserved.</p>
+							</div>
+							<div class="col-lg-4 d-flex align-items-center justify-content-center justify-content-lg-end">
+								<nav id="sub-menu">
+									<ul>
+										<li><i class="fas fa-angle-right"></i><a href="page-faq.html" class="ms-1 text-decoration-none"> FAQ's</a></li>
+										<li><i class="fas fa-angle-right"></i><a href="sitemap.html" class="ms-1 text-decoration-none"> Sitemap</a></li>
+										<li><i class="fas fa-angle-right"></i><a href="contact-us.html" class="ms-1 text-decoration-none"> Contact Us</a></li>
+									</ul>
+								</nav>
+							</div>
+						</div>
+					</div>
+				</div>
+			</footer>
 
     <!-- <a class="style-switcher-open-loader" href="#" data-base-path="" data-skin-src="assets/master/less/skin-marketing-1.less" data-bs-toggle="tooltip" data-bs-animation="false" data-bs-placement="right" title="Style Switcher" aria-label="Style Switcher"><i class="fas fa-cogs"></i>
         <div class="style-switcher-tooltip"><strong>Style Switcher</strong>
