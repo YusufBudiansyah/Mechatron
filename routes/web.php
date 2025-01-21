@@ -54,6 +54,14 @@ Route::get('/homes', function () {
     return view('User.homes');
 });
 
+
+
+//Admin Page
+Route::get('/Admin', function () {
+    return view('admin.baseadmin');
+});
+
+
 Route::get('/dashboard', function () {
     return view('dashboard');
 })->middleware(['auth', 'verified'])->name('dashboard');
