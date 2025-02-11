@@ -22,6 +22,7 @@ Route::get('/landing', function () {
     return view('User.landing');
 });
 
+//Halaman about us
 Route::get('/about1', function () {
     return view('User.about1');
 });
@@ -30,20 +31,17 @@ Route::get('/team', function () {
     return view('User.team');
 });
 
-Route::get('/process', function () {
-    return view('User.process');
-});
 
 Route::get('/service', function () {
     return view('User.service');
 });
 
-Route::get('/casestud', function () {
-    return view('User.casestud');
+Route::get('/galery', function () {
+    return view('User.galery');
 });
 
-Route::get('/studdetails', function () {
-    return view('User.studdetails');
+Route::get('/partnership', function () {
+    return view('User.partnership');
 });
 
 Route::get('/contact', function () {
@@ -53,6 +51,65 @@ Route::get('/contact', function () {
 Route::get('/homes', function () {
     return view('User.homes');
 });
+
+//Halaman Services
+Route::get('/survival', function () {
+    return view('User.survival');
+});
+
+Route::get('/treshold', function () {
+    return view('User.treshold');
+});
+
+Route::get('/waystage', function () {
+    return view('User.waystage');
+});
+
+Route::get('/milestone', function () {
+    return view('User.milestone');
+});
+
+Route::get('/stage', function () {
+    return view('User.stage');
+});
+
+//Halaman Paartnership
+Route::get('/workshop', function () {
+    return view('User.workshop');
+});
+
+
+Route::get('/event', function () {
+    return view('User.event');
+});
+
+
+Route::get('/ekstrakulikuler', function () {
+    return view('User.ekstrakulikuler');
+});
+
+
+//Halaman Product
+Route::get('/product', function () {
+    return view('User.product');
+});
+Route::get('/nxtmind', function () {
+    return view('User.nxtmind');
+});
+Route::get('/techmachine', function () {
+    return view('User.techmachine');
+});
+Route::get('/brick', function () {
+    return view('User.brick');
+});
+Route::get('/wedo', function () {
+    return view('User.wedo');
+});
+Route::get('/linefollow', function () {
+    return view('User.linefollow');
+});
+
+
 
 
 
