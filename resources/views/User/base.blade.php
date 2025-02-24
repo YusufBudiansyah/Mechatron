@@ -41,6 +41,7 @@
     <!-- Demo CSS -->
     <link rel="stylesheet" href="{{ asset('assets/css/demos/demo-marketing-1.css')}}">
     <link rel="stylesheet" href="{{ asset('assets/css/demos/demo-auto-services.css')}}"> <!-- untuk css service dari template auto service -->
+    <link rel="stylesheet" href="css/demos/demo-business-consulting-4.css"> <!-- css testimoni -->
 
     <!-- Skin CSS -->
     <link id="skinCSS" rel="stylesheet" href="{{ asset('assets/css/skins/skin-marketing-1.css')}}">
@@ -117,24 +118,24 @@
                                                         </li>
 
                                                         <li class="dropdown-submenu">
-                                                            <a class="dropdown-item" href="#">Activities & Programs</a>
+                                                            <a class="dropdown-item" href="/activities">Activities & Programs</a>
                                                             <ul class="dropdown-menu">
-                                                                <li><a class="dropdown-item" href="#">Intrakulikuler</a></li>
-                                                                <li><a class="dropdown-item" href="#">Ekstrakulikuler</a></li>
-                                                                <li><a class="dropdown-item" href="#">Seminar Robotic</a></li>
-                                                                <li><a class="dropdown-item" href="#">Workshop robotic</a></li>
+                                                                <li><a class="dropdown-item" href="/intrakulikuler">Intrakulikuler</a></li>
+                                                                <li><a class="dropdown-item" href="/ekstrakulikuler">Ekstrakulikuler</a></li>
+                                                                <li><a class="dropdown-item" href="/seminar">Seminar Robotic</a></li>
+                                                                <li><a class="dropdown-item" href="/workshop">Workshop robotic</a></li>
                                                             </ul>
                                                         </li>
 
                                                         <li class="dropdown-submenu">
-                                                            <a class="dropdown-item small" href="#">Hardware & Programing</a> <!--kecilin teks hardware and programming-->
+                                                            <a class="dropdown-item small" href="/hardware">Hardware & Programing</a> <!--kecilin teks hardware and programming-->
                                                             <ul class="dropdown-menu">
-                                                                <li><a class="dropdown-item" href="#">Teacher</a></li>
-                                                                <li><a class="dropdown-item" href="#">NXT Mindstorm</a></li>
-                                                                <li><a class="dropdown-item" href="#">Line Follower Robot</a></li>
-                                                                <li><a class="dropdown-item" href="#">Microcontroller</a></li>
-                                                                <li><a class="dropdown-item" href="#">Arduino</a></li>
-                                                                <li><a class="dropdown-item" href="#">Elektronika</a></li>
+                                                                <!-- <li><a class="dropdown-item" href="/teacher">Teacher</a></li> -->
+                                                                <li><a class="dropdown-item" href="/nxtmind">NXT Mindstorm</a></li>
+                                                                <li><a class="dropdown-item" href="/linefollower">Line Follower Robot</a></li>
+                                                                <li><a class="dropdown-item" href="/microcont">Microcontroller</a></li>
+                                                                <li><a class="dropdown-item" href="/arduino">Arduino</a></li>
+                                                                <li><a class="dropdown-item" href="/elektronika">Elektronika</a></li>
                                                             </ul>
                                                         </li>
                                                         <li> <a href="/team" class="nav-link">Our Team</a> </li>
@@ -168,16 +169,16 @@
                                                     <a href="/galery" class="dropdown-item dropdown-toggle text-hover-primary">Galery</a>
                                                     <ul class="dropdown-menu">
                                                         <!-- dibaris ini nambah judul kecil bernama "Foto" -->
-                                                        <li> <a href="/galery" class="nav-link">Kegiatan belajar mengajar</a></li>
-                                                        <li> <a href="#" class="nav-link">Mechatron Robotic Competition</a> </li>
-                                                        <li> <a href="#" class="nav-link">Seminar & Workshop</a> </li>
+                                                        <li> <a href="/kegiatan" class="nav-link">Kegiatan belajar mengajar</a></li>
+                                                        <li> <a href="/mechacompe" class="nav-link">Mechatron Robotic Competition</a> </li>
+                                                        <!-- <li> <a href="#" class="nav-link">Seminar & Workshop</a> </li> -->
 
                                                         <li>
                                                             <hr class="dropdown-divider">
                                                         </li>
                                                         <!-- di baris ini tambahin judul video -->
-                                                        <li><a class="dropdown-item" href="#">Video Kegiatan</a></li>
-                                                        <li><a class="dropdown-item" href="#">Video Tutorial</a></li>
+                                                        <li><a class="dropdown-item" href="/vidiokegiatan">Video Kegiatan</a></li>
+                                                        <li><a class="dropdown-item" href="/vidiotutorial">Video Tutorial</a></li>
                                                     </ul>
                                                 </li>
 
@@ -368,7 +369,7 @@
                     <div class="row py-4">
                         <div class="col-lg-1 d-flex align-items-center justify-content-center justify-content-lg-start mb-2 mb-lg-0">
                             <a href="index.html" class="logo pe-0 pe-lg-3">
-                                <img alt="Porto Website Template" src="img/logo-footer.png" class="opacity-5" height="32">
+                                <img alt="Porto Website Template" src="assets/img/logo-footer.png" class="opacity-5" height="32">
                             </a>
                         </div>
                         <div class="col-lg-7 d-flex align-items-center justify-content-center justify-content-lg-start mb-4 mb-lg-0">

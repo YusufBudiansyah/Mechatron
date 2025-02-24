@@ -1,24 +1,26 @@
 @extends('User.base')
 @section('main_content')
-<div role="main" class="main">
 
-    <!-- <section class="page-header page-header-modern page-header-background parallax mt-0" data-plugin-parallax data-plugin-options="{'speed': 1.2}" data-image-src="assets/img/demos/marketing-1/generic/generic-8.jpg">
-        <div class="container">
-            <div class="row py-5">
-                <div class="col align-self-center p-static">
-                    <div data-plugin-float-element data-plugin-options="{'minWindowWidth': 992, 'startPos': 'bottom', 'speed': 0.4, 'transition': true, 'transitionDuration': 1000}">
-                        <ul class="breadcrumb d-flex text-4-5">
-                            <li><a href="/landing" class="text-color-dark text-color-hover-primary text-transform-none text-decoration-none">Home</a></li>
-                            <li class="active text-color-primary text-transform-none">Product</li>
-                        </ul>
-                        <h1 class="text-color-dark font-weight-semi-bold text-lg-12 appear-animation" data-appear-animation="fadeIn" data-appear-animation-delay="0"><mark class="bg-transparent d-inline-block p-0 mark mark-color mark-color-tertiary">Product</mark></h1>
-                    </div>
-                </div>
-
+<!-- Modal Popup -->
+<div class="modal fade" id="eventPopup" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-xl">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Contact Us</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body" style="display: flex; justify-content: center">
+                <img src="assets/img/admin-banner.png" alt="" />
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-primary">Save changes</button>
             </div>
         </div>
-    </section>  parallax breadcrumb--> 
+    </div>
+</div> <!-- Modal Pop Up -->
 
+<div role="main" class="main">
     <section class="page-header page-header-modern custom-bg-color-1 page-header-lg mb-0">
         <div class="container">
             <div class="row py-lg-5 text-center text-lg-start">
@@ -37,99 +39,155 @@
         </div>
     </section>
 
-    <div class="container pb-5">
-        <div class="row py-5 justify-content-center">
-            <div class="col-lg-8 py-5 text-center">
-                <div class="perspective-500">
-                    <h2 class="custom-font-1 appear-animation mb-0" data-appear-animation="textEntrance" data-appear-animation-delay="0">Transforming <strong class="text-primary">ideas</strong> into impactful strategies with <strong class="text-secondary">precision</strong> and creativity.</h2>
-                </div>
+
+    <div class="container py-4 my-5">
+        <div class="row mb-4 pb-2">
+            <div class="col">
+                <p class="text-4 font-weight-semibold mb-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="300">
+                    Get reliable & affordable auto services for your facility with a 100% satisfaction guaranteed!
+                </p>
+                <p class="pb-1 mb-3 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="500">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ultricies nunc, eu interdum enim convallis pretium. Quisque eu neque augue. Aliquam egestas nunc at efficitur faucibus. Praesent mauris eros, tincidunt
+                    id enim sodales, rhoncus malesuada ligula.
+                </p>
+                <p class="mb-1 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="700">
+                    Vivamus quis purus nec sapien pellentesque imperdiet. Nullam porttitor augue mi, sit amet luctus est tincidunt sed. Donec tempus bibendum ex, nec vehicula elit.
+                </p>
+            </div>
+        </div>
+        <div class="row row-gutter-sm mb-3 appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="950">
+            <div class="col-sm-6 col-lg-3 text-center mb-4">
+                <a href="/nxtmind" class="text-decoration-none">
+                    <div class="custom-thumb-info-style-1 thumb-info thumb-info-no-borders thumb-info-no-borders-rounded thumb-info-lighten">
+                        <div class="thumb-info-wrapper">
+                            <img src="assets/img/demos/auto-services/services/service-small-1.jpg" class="img-fluid" alt="" />
+                        </div>
+                        <h3 class="text-transform-none font-weight-bold text-5 mt-2 mb-0">NXT Mind</h3>
+                    </div>
+                </a>
+            </div>
+            <div class="col-sm-6 col-lg-3 text-center mb-4">
+                <a href="/techmachine" class="text-decoration-none">
+                    <div class="custom-thumb-info-style-1 thumb-info thumb-info-no-borders thumb-info-no-borders-rounded thumb-info-lighten">
+                        <div class="thumb-info-wrapper">
+                            <img src="assets/img/demos/auto-services/services/service-small-2.jpg" class="img-fluid" alt="" />
+                        </div>
+                        <h3 class="text-transform-none font-weight-bold text-5 mt-2 mb-0">Tech Machine</h3>
+                    </div>
+                </a>
+            </div>
+            <div class="col-sm-6 col-lg-3 text-center mb-4">
+                <a href="/brick" class="text-decoration-none">
+                    <div class="custom-thumb-info-style-1 thumb-info thumb-info-no-borders thumb-info-no-borders-rounded thumb-info-lighten">
+                        <div class="thumb-info-wrapper">
+                            <img src="assets/img/demos/auto-services/services/service-small-3.jpg" class="img-fluid" alt="" />
+                        </div>
+                        <h3 class="text-transform-none font-weight-bold text-5 mt-2 mb-0">Brick</h3>
+                    </div>
+                </a>
+            </div>
+            <div class="col-sm-6 col-lg-3 text-center">
+                <a href="/wedo" class="text-decoration-none">
+                    <div class="custom-thumb-info-style-1 thumb-info thumb-info-no-borders thumb-info-no-borders-rounded thumb-info-lighten">
+                        <div class="thumb-info-wrapper">
+                            <img src="assets/img/demos/auto-services/services/service-small-4.jpg" class="img-fluid" alt="" />
+                        </div>
+                        <h3 class="text-transform-none font-weight-bold text-5 mt-2 mb-0">Wedo</h3>
+                    </div>
+                </a>
+            </div>
+
+            <div class="col-sm-6 col-lg-3 text-center mb-lg-0">
+                <a href="/linefollower" class="text-decoration-none">
+                    <div class="custom-thumb-info-style-1 thumb-info thumb-info-no-borders thumb-info-no-borders-rounded thumb-info-lighten">
+                        <div class="thumb-info-wrapper">
+                            <img src="assets/img/demos/auto-services/services/service-small-4.jpg" class="img-fluid" alt="" />
+                        </div>
+                        <h3 class="text-transform-none font-weight-bold text-5 mt-2 mb-0">Line Follower Robot</h3>
+                    </div>
+                </a>
             </div>
         </div>
     </div>
+</div>
 
-    <div class="bg-dark text-light py-5">
-        <div class="container py-5">
-            <div class="row py-4 align-items-center border-bottom-light border-color-light-5 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="0">
-                <div class="col-lg-1 pt-4 pt-lg-0">
-                    <strong class="text-8">01</strong>
+<section class="section border-0 m-0">
+    <div class="container pb-3 my-5">
+        <div class="row justify-content-center pb-3 mb-4">
+            <div class="col text-center">
+                <div class="overflow-hidden">
+                    <h2 class="font-weight-bold text-color-dark line-height-3 mb-0 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="250">See What Clients Are Saying</h2>
                 </div>
-                <div class="col-lg-3">
-                    <span class="text-light line-height-2 text-8">Discovery & Research</span>
+                <div class="d-inline-block custom-divider divider divider-primary divider-small my-3">
+                    <hr class="my-0 appear-animation" data-appear-animation="customLineProgressAnim" data-appear-animation-delay="600">
                 </div>
-                <div class="col-lg-8">
-                    <p class="text-light opacity-7 line-height-12 text-4-5 pt-2">We start by understanding your brand, goals, and target audience. Through thorough research and market analysis, we uncover insights that drive our strategies.</p>
-                </div>
-            </div>
-            <div class="row py-4 align-items-center border-bottom-light border-color-light-5 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="0">
-                <div class="col-lg-1 pt-4 pt-lg-0">
-                    <strong class="text-8">02</strong>
-                </div>
-                <div class="col-lg-3">
-                    <span class="text-light line-height-2 text-8">Strategy Development</span>
-                </div>
-                <div class="col-lg-8">
-                    <p class="text-light opacity-7 line-height-12 text-4-5 pt-2">Based on our findings, we craft a tailored marketing strategy. This roadmap outlines the key tactics, channels, and messaging needed to achieve your objectives.</p>
-                </div>
-            </div>
-            <div class="row py-4 align-items-center border-bottom-light border-color-light-5 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="0">
-                <div class="col-lg-1 pt-4 pt-lg-0">
-                    <strong class="text-8">03</strong>
-                </div>
-                <div class="col-lg-3">
-                    <span class="text-light line-height-2 text-8">Creative Execution</span>
-                </div>
-                <div class="col-lg-8">
-                    <p class="text-light opacity-7 line-height-12 text-4-5 pt-2">Our creative team brings the strategy to life, designing impactful content and campaigns that resonate with your audience. We focus on creativity that not only looks great but drives engagement and conversions.</p>
-                </div>
-            </div>
-            <div class="row py-4 align-items-center border-bottom-light border-color-light-5 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="0">
-                <div class="col-lg-1 pt-4 pt-lg-0">
-                    <strong class="text-8">04</strong>
-                </div>
-                <div class="col-lg-3">
-                    <span class="text-light line-height-2 text-8">Implementation & Optimization</span>
-                </div>
-                <div class="col-lg-8">
-                    <p class="text-light opacity-7 line-height-12 text-4-5 pt-2">We deploy your campaigns across the most effective channels, monitoring performance in real-time. Our team continuously optimizes to ensure maximum impact and ROI, adjusting tactics as needed to stay ahead.</p>
-                </div>
-            </div>
-            <div class="row py-4 align-items-center border-bottom-light border-color-light-5 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="0">
-                <div class="col-lg-1 pt-4 pt-lg-0">
-                    <strong class="text-8">05</strong>
-                </div>
-                <div class="col-lg-3">
-                    <span class="text-light line-height-2 text-8">Reporting & Insights</span>
-                </div>
-                <div class="col-lg-8">
-                    <p class="text-light opacity-7 line-height-12 text-4-5 pt-2">Transparency is key to our process. We provide detailed reports that break down the results, offering insights and recommendations for future campaigns. Your success is our priority, and we’re committed to continuous improvement.</p>
-                </div>
-            </div>
-            <div class="row py-4 align-items-center">
-                <div class="col text-center pt-4">
-                    <p class="text-light line-height-12 text-4-5 pt-2">From concept to execution, let’s build something great together. <a href="#" class="text-light text-hover-primary text-decoration-underline-2 border-width-2 font-weight-semibold">Get In Touch!</a></p>
-                </div>
+                <p class="font-weight-bold text-3-5 mb-1 appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="500">We are very proud of the service we provide and stand by every product we carry.</p>
+                <p class="font-weight-light text-3-5 mb-0 appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="750">Read our testimonials from our happy customers.</p>
             </div>
         </div>
-    </div>
-
-    <div class="py-5">
-        <div class="marquee" data-duration="50000" data-gap="10" data-duplicated="true" data-startVisible="true">
-            <p class="text-9 text-dark m-0 py-2"><span data-clone-element="5">Planning • Positioning • Market Research • Optimization • Analysis • Strategy • </span></p>
-        </div>
-    </div>
-
-    <div class="custom-bg-gradient-1 py-5">
-        <div class="container py-5">
-            <div class="row py-5 justify-content-center">
-                <div class="col-lg-8 text-center">
-                    <div class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="0">
-                        <span class="bg-light text-primary d-inline-block text-3-5 rounded-pill px-4 py-1 font-weight-medium mb-3">Are You Ready?</span>
-                        <h3 class="custom-font-1 mb-0">We handle every aspect of your marketing journey with expertise and dedication</h3>
-                        <a href="#" class="text-dark text-hover-primary text-6 line-height-10 text-decoration-underline-2 border-width-2 d-inline-flex mt-5 font-weight-semibold">Let's Talk!</a>
+        <div class="row appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="1000">
+            <div class="col">
+                <div class="owl-carousel nav-outside nav-style-1 nav-dark nav-arrows-thin nav-font-size-lg custom-carousel-box-shadow-1 mb-0" data-plugin-options="{'responsive': {'0': {'items': 1}, '479': {'items': 1}, '768': {'items': 2}, '979': {'items': 2}, '1199': {'items': 3}}, 'autoplay': true, 'autoplayTimeout': 5000, 'autoplayHoverPause': true, 'dots': false, 'nav': true, 'loop': true, 'margin': 15, 'stagePadding': '75'}">
+                    <div>
+                        <div class="card custom-border-radius-1">
+                            <div class="card-body">
+                                <div class="custom-testimonial-style-1 testimonial testimonial-style-2 testimonial-with-quotes testimonial-remove-right-quote text-center mb-0">
+                                    <blockquote>
+                                        <p class="text-color-dark text-3 font-weight-light px-0 mb-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget risus porta, tincidunt turpis at, interdum tortor. Suspendisse potenti. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                                    </blockquote>
+                                    <div class="testimonial-author">
+                                        <p><strong class="font-weight-extra-bold">John Smith</strong></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="card custom-border-radius-1">
+                            <div class="card-body">
+                                <div class="custom-testimonial-style-1 testimonial testimonial-style-2 testimonial-with-quotes testimonial-remove-right-quote text-center mb-0">
+                                    <blockquote>
+                                        <p class="text-color-dark text-3 font-weight-light px-0 mb-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget risus porta, tincidunt turpis at, interdum tortor. Suspendisse potenti. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                                    </blockquote>
+                                    <div class="testimonial-author">
+                                        <p><strong class="font-weight-extra-bold">John Doe</strong></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="card custom-border-radius-1">
+                            <div class="card-body">
+                                <div class="custom-testimonial-style-1 testimonial testimonial-style-2 testimonial-with-quotes testimonial-remove-right-quote text-center mb-0">
+                                    <blockquote>
+                                        <p class="text-color-dark text-3 font-weight-light px-0 mb-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget risus porta, tincidunt turpis at, interdum tortor. Suspendisse potenti. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                                    </blockquote>
+                                    <div class="testimonial-author">
+                                        <p><strong class="font-weight-extra-bold">John Smith</strong></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="card custom-border-radius-1">
+                            <div class="card-body">
+                                <div class="custom-testimonial-style-1 testimonial testimonial-style-2 testimonial-with-quotes testimonial-remove-right-quote text-center mb-0">
+                                    <blockquote>
+                                        <p class="text-color-dark text-3 font-weight-light px-0 mb-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget risus porta, tincidunt turpis at, interdum tortor. Suspendisse potenti. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                                    </blockquote>
+                                    <div class="testimonial-author">
+                                        <p><strong class="font-weight-extra-bold">John Doe</strong></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
+</section>
 
-    @endsection
+@endsection

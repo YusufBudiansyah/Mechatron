@@ -46,6 +46,8 @@
         </div>
     </section>
 
+
+
     <div class="container text-center mt-5">
         <div class="row justify-content-center">
             <!-- Card Pertama -->
@@ -489,7 +491,7 @@
 
 
                 <div data-scroll data-scroll-speed="-0.5" data-scroll-offset="-50%">
-                    <ul class="list-unstyled mt-5 pt-5">
+                    <ul class="list-unstyled mt-5 pt-5 mb-5">
                         <li class="custom-project-list-item-1">
                             <div class="row">
                                 <div class="col-lg-3 text-center text-lg-start"><span class="custom-project-list-item-num-1">01</span></div>
@@ -588,125 +590,76 @@
         </div>
     </section>
 
-    <!-- <div class="bg-dark pb-5">
-        <section class="section section-angled overflow-visible border-top-0 custom-bg-color-1 mb-0">
-            <div class="section-angled-layer-bottom bg-dark"></div>
-            <div class="section-angled-content custom-el-2">
-                <div class="container pt-4 pb-5 p-relative z-index-1">
-                    <div class="row text-center text-lg-start justify-content-between py-5">
-                        <div class="col-lg-4 py-5 px-4 px-lg-0">
-                            <div class="appear-animation" data-appear-animation="fadeIn" data-appear-animation-delay="0">
-                                <span class="bg-gradient text-light d-inline-block text-3 rounded-pill px-4 py-1 font-weight-medium me-2"><i class="fa-solid fa-star me-1"></i><i class="fa-solid fa-star me-1"></i><i class="fa-solid fa-star me-1"></i><i class="fa-solid fa-star me-1"></i><i class="fa-solid fa-star"></i></span>
-                                <p class="p-0 d-inline-block text-3-5">Beyond Expectations</p>
-                            </div>
-                            <div class="appear-animation" data-appear-animation="fadeIn" data-appear-animation-delay="300">
-                                <h3 class="custom-font-2 mb-0">See what our clients are <span class="custom-word-highlight-1 d-inline-block p-relative"><span class="p-relative z-index-2">saying!</span><img width="100%" src="assets/img/demos/marketing-1/svg/generic-3.svg" alt=""></span></h3>
-                            </div>
-                        </div>
-                        <div class="col-lg-6 py-5">
-                            <div class="appear-animation" data-appear-animation="fadeIn" data-appear-animation-delay="400">
-                                <div class="owl-carousel custom-owl-carousel-1 owl-theme stage-margin rounded-nav nav-icon-1 nav-size-md nav-position-1" data-plugin-options="{'responsive': {'0': {'items': 1}, '479': {'items': 1}, '768': {'items': 1}, '979': {'items': 1}, '1199': {'items': 1}}, 'margin': 10, 'autoHeight': true, 'loop': true, 'nav': true, 'dots': false, 'stagePadding': 40}">
-                                    <div>
-                                        <div class="pe-5">
-                                            <p class="text-dark text-4-5 line-height-9">Beyound expectations with their innovative marketing strategies. They took the time to understand our brand, delivering targeted campaigns that significantly boosted.</p>
-                                            <strong class="text-color-primary text-uppercase font-weight-medium">John Doe, Porto Theme</strong>
-                                        </div>
-                                    </div>
-                                    <div>
-                                        <div class="pe-5">
-                                            <p class="text-dark text-4-5 line-height-9">Outstanding social media management! Our engagement doubled, and our brand presence has never been stronger. Highly recommend their services.</p>
-                                            <strong class="text-color-primary text-uppercase font-weight-medium">Robert Doe, Porto Theme</strong>
-                                        </div>
-                                    </div>
-                                    <div>
-                                        <div class="pe-5">
-                                            <p class="text-dark text-4-5 line-height-9">Their market research was incredibly thorough. It provided valuable insights that shaped our entire marketing strategy. Couldn't be happier with the outcome!</p>
-                                            <strong class="text-color-primary text-uppercase font-weight-medium">Monica Doe, Porto Theme</strong>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section> --> <!-- Testimonials cadangan -->
 
-    <!-- Tambahan py-5  -->
-    <section class="section border-0 m-0 py-5">
-        <div class="container pb-3 my-5">
-            <div class="row justify-content-center pb-3 mb-4">
-                <div class="col text-center">
-                    <h2 class="font-weight-bold text-color-dark line-height-1 mb-0">See What Clients Are Saying</h2>
-                    <div class="d-inline-block custom-divider divider divider-primary divider-small my-3">
-                        <hr class="my-0">
+
+
+    <section class="section border-0 bg-dark m-0"> <!-- Changed bg-quaternary to bg-dark -->
+        <div class="container py-5">
+            <div class="row justify-content-center">
+                <div class="col col-lg-9 text-center">
+
+                    <div class="divider divider-small divider-small-lg mt-0 text-center appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="0">
+                        <hr class="bg-primary border-radius m-auto">
                     </div>
-                    <p class="font-weight-bold text-3-5 mb-1">We are very proud of the service we provide and stand by every product we carry.</p>
-                    <p class="font-weight-light text-3-5 mb-0">Read our testimonials from our happy customers.</p>
+                    <div class="overflow-hidden mb-1">
+                        <h3 class="font-weight-semi-bold text-light text-uppercase positive-ls-3 text-4 line-height-2 line-height-sm-7 mb-0 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="100">What They Say About Us</h3>
+                    </div>
+                    <h2 class="text-light font-weight-bold text-8 pb-4 mb-0 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="200">Testimonials</h2>
+
                 </div>
             </div>
-            <div class="row">
-                <div class="col">
-                    <div class="owl-carousel nav-outside nav-style-1 nav-dark nav-arrows-thin nav-font-size-lg custom-carousel-box-shadow-1 mb-0" data-plugin-options="{'responsive': {'0': {'items': 1}, '479': {'items': 1}, '768': {'items': 2}, '979': {'items': 2}, '1199': {'items': 3}}, 'autoplay': true, 'autoplayTimeout': 5000, 'autoplayHoverPause': true, 'dots': false, 'nav': true, 'loop': true, 'margin': 15, 'stagePadding': '75'}">
-                        <div>
-                            <div class="card custom-border-radius-1">
-                                <div class="card-body">
-                                    <div class="custom-testimonial-style-1 testimonial testimonial-style-2 testimonial-with-quotes testimonial-remove-right-quote text-center mb-0">
-                                        <blockquote>
-                                            <p class="text-color-dark text-3 font-weight-light px-0 mb-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget risus porta, tincidunt turpis at, interdum tortor. Suspendisse potenti. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                                        </blockquote>
-                                        <div class="testimonial-author">
-                                            <p><strong class="font-weight-extra-bold">John Smith</strong></p>
-                                        </div>
+
+            <div class="row mt-4">
+                <div class="col appear-animation" data-appear-animation="fadeIn" data-appear-animation-delay="300">
+
+                    <div class="owl-carousel owl-theme stage-margin rounded-nav nav-dark nav-icon-1 nav-size-md mb-0" data-plugin-options="{'responsive': {'0': {'items': 1}, '479': {'items': 1}, '768': {'items': 2}, '979': {'items': 2}, '1199': {'items': 2}}, 'margin': 0, 'loop': true, 'nav': true, 'dots': false, 'stagePadding': 40}">
+                        <div class="mx-3">
+                            <div class="testimonial testimonial-style-3 testimonial-style-3-light">
+                                <blockquote class="p-3 before-d-none">
+                                    <p class="font-weight-medium text-4 line-height-5 p-3 m-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec hendrerit vehicula est, in consequat.</p>
+                                </blockquote>
+                                <div class="testimonial-arrow-down p-relative z-index-1"></div>
+                                <div class="testimonial-author">
+                                    <div class="testimonial-author-thumbnail">
+                                        <img src="assets/img/clients/client-1.jpg" class="img-fluid rounded-circle" alt="">
                                     </div>
+                                    <p><strong class="font-weight-extra-bold">John Smith</strong><span>CEO & Founder - Okler</span></p>
                                 </div>
                             </div>
                         </div>
-                        <div>
-                            <div class="card custom-border-radius-1">
-                                <div class="card-body">
-                                    <div class="custom-testimonial-style-1 testimonial testimonial-style-2 testimonial-with-quotes testimonial-remove-right-quote text-center mb-0">
-                                        <blockquote>
-                                            <p class="text-color-dark text-3 font-weight-light px-0 mb-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget risus porta, tincidunt turpis at, interdum tortor. Suspendisse potenti. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                                        </blockquote>
-                                        <div class="testimonial-author">
-                                            <p><strong class="font-weight-extra-bold">John Doe</strong></p>
-                                        </div>
+                        <div class="mx-3">
+                            <div class="testimonial testimonial-style-3 testimonial-style-3-light">
+                                <blockquote class="p-3 before-d-none">
+                                    <p class="font-weight-medium text-4 line-height-5 p-3 m-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec hendrerit vehicula est, in consequat.</p>
+                                </blockquote>
+                                <div class="testimonial-arrow-down p-relative z-index-1"></div>
+                                <div class="testimonial-author">
+                                    <div class="testimonial-author-thumbnail">
+                                        <img src="assets/img/clients/client-1.jpg" class="img-fluid rounded-circle" alt="">
                                     </div>
+                                    <p><strong class="font-weight-extra-bold">John Smith</strong><span>CEO & Founder - Okler</span></p>
                                 </div>
                             </div>
                         </div>
-                        <div>
-                            <div class="card custom-border-radius-1">
-                                <div class="card-body">
-                                    <div class="custom-testimonial-style-1 testimonial testimonial-style-2 testimonial-with-quotes testimonial-remove-right-quote text-center mb-0">
-                                        <blockquote>
-                                            <p class="text-color-dark text-3 font-weight-light px-0 mb-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget risus porta, tincidunt turpis at, interdum tortor. Suspendisse potenti. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                                        </blockquote>
-                                        <div class="testimonial-author">
-                                            <p><strong class="font-weight-extra-bold">John Smith</strong></p>
-                                        </div>
+                        <div class="mx-3">
+                            <div class="testimonial testimonial-style-3 testimonial-style-3-light">
+                                <blockquote class="p-3 before-d-none">
+                                    <p class="font-weight-medium text-4 line-height-5 p-3 m-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec hendrerit vehicula est, in consequat.</p>
+                                </blockquote>
+                                <div class="testimonial-arrow-down p-relative z-index-1"></div>
+                                <div class="testimonial-author">
+                                    <div class="testimonial-author-thumbnail">
+                                        <img src="assets/img/clients/client-1.jpg" class="img-fluid rounded-circle" alt="">
                                     </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div>
-                            <div class="card custom-border-radius-1">
-                                <div class="card-body">
-                                    <div class="custom-testimonial-style-1 testimonial testimonial-style-2 testimonial-with-quotes testimonial-remove-right-quote text-center mb-0">
-                                        <blockquote>
-                                            <p class="text-color-dark text-3 font-weight-light px-0 mb-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget risus porta, tincidunt turpis at, interdum tortor. Suspendisse potenti. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                                        </blockquote>
-                                        <div class="testimonial-author">
-                                            <p><strong class="font-weight-extra-bold">John Doe</strong></p>
-                                        </div>
-                                    </div>
+                                    <p><strong class="font-weight-extra-bold">John Smith</strong><span>CEO & Founder - Okler</span></p>
                                 </div>
                             </div>
                         </div>
                     </div>
+
                 </div>
             </div>
+
         </div>
     </section>
 

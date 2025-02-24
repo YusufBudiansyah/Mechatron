@@ -8,13 +8,13 @@
             <div class="row py-lg-5 text-center text-lg-start">
                 <div class="col-lg-8 order-2 order-lg-1 align-self-center p-static">
                     <div data-plugin-float-element data-plugin-options="{'minWindowWidth': 992, 'startPos': 'bottom', 'speed': 0.4, 'transition': true, 'transitionDuration': 1000}">
-                        <h1 class="text-color-dark font-weight-semi-bold text-lg-12 appear-animation" data-appear-animation="fadeIn" data-appear-animation-delay="0"><mark class="bg-transparent d-inline-block p-0 mark mark-color mark-color-tertiary">Workshop</mark></h1>
+                        <h1 class="text-color-dark font-weight-semi-bold text-lg-12 appear-animation" data-appear-animation="fadeIn" data-appear-animation-delay="0"><mark class="bg-transparent d-inline-block p-0 mark mark-color mark-color-tertiary">Line Follower Robot</mark></h1>
                     </div>
                 </div>
                 <div class="col-lg-4 order-1 order-lg-2 align-self-center">
                     <ul class="breadcrumb d-flex justify-content-center justify-content-lg-end text-4-5">
                         <li><a href="/landing" class="text-color-dark text-color-hover-primary text-transform-none text-decoration-none">Home</a></li>
-                        <li class="active text-color-primary text-transform-none">Workshop</li>
+                        <li class="active text-color-primary text-transform-none">Line Follower Robot</li>
                     </ul>
                 </div>
             </div>
@@ -22,6 +22,7 @@
     </section>
 
     <div class="bg-dark">
+
         <div class="container py-4 py-lg-5">
             <div class="row text-center text-lg-start py-lg-5">
                 <div class="col pb-4 pt-4 mt-4">
@@ -120,19 +121,22 @@
             <div class="col-lg-4 order-lg-1 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="250">
                 <div class="card box-shadow-1 custom-border-radius-1 mb-5">
                     <div class="card-body z-index-1 py-4 my-3">
-                        <h2 class="text-color-dark font-weight-bold text-6 mb-4">Stage Level</h2>
+                        <h2 class="text-color-dark font-weight-bold text-6 mb-4">Hardware & Programming</h2>
                         <ul class="custom-nav-list-effect-1 list list-unstyled mb-0">
                             <li>
-                                <a href="/intrakulikuler" class="text-decoration-none text-color-dark text-color-hover-primary text-3-5">Intrakulikuler</a>
+                                <a href="/nxtmind" class="text-decoration-none text-color-dark text-color-hover-primary text-3-5">NXT Mindstorm</a>
                             </li>
                             <li>
-                                <a href="/ekstrakulikuler" class="text-decoration-none text-color-dark text-color-hover-primary text-3-5">Ekstrakulikuler</a>
-                            </li>
-                            <li>
-                                <a href="/seminar" class="text-decoration-none text-color-dark text-color-hover-primary text-3-5">Seminar Robotic</a>
+                                <a href="/linefollower" class="text-decoration-none text-color-dark text-color-hover-primary text-3-5">Line Follower Robot</a>
                             </li>
                             <li class="active">
-                                <a href="/workshop" class="text-decoration-none text-color-dark text-color-hover-primary text-3-5">Workshop Robotic</a>
+                                <a href="/microcont" class="text-decoration-none text-color-dark text-color-hover-primary text-3-5">Microcontroller</a>
+                            </li>
+                            <li>
+                                <a href="/arduino" class="text-decoration-none text-color-dark text-color-hover-primary text-3-5">Arduino</a>
+                            </li>
+                            <li>
+                                <a href="/elektronika" class="text-decoration-none text-color-dark text-color-hover-primary text-3-5">Elektronika</a>
                             </li>
                         </ul>
                     </div>

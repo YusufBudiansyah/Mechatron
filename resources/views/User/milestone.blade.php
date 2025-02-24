@@ -69,7 +69,7 @@
                     <div class="card-body z-index-1 py-4 my-3">
                         <h2 class="text-color-dark font-weight-bold text-6 mb-4">Stage Level</h2>
                         <ul class="custom-nav-list-effect-1 list list-unstyled mb-0">
-                            <li class="active">
+                            <li>
                                 <a href="/survival" class="text-decoration-none text-color-dark text-color-hover-primary text-3-5">Survival</a>
                             </li>
                             <li>
@@ -78,7 +78,7 @@
                             <li>
                                 <a href="/treshold" class="text-decoration-none text-color-dark text-color-hover-primary text-3-5">Treshold</a>
                             </li>
-                            <li>
+                            <li class="active">
                                 <a href="/milestone" class="text-decoration-none text-color-dark text-color-hover-primary text-3-5">Milestone</a>
                             </li>
                         </ul>

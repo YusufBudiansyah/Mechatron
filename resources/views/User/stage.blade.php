@@ -1,24 +1,6 @@
 @extends('User.base')
 @section('main_content')
 
-<!-- Modal Popup -->
-<div class="modal fade" id="eventPopup" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-	<div class="modal-dialog modal-xl">
-		<div class="modal-content">
-			<div class="modal-header">
-				<h5 class="modal-title" id="exampleModalLabel">Contact Us</h5>
-				<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-			</div>
-			<div class="modal-body" style="display: flex; justify-content: center">
-				<img src="assets/img/admin-banner.png" alt="" />
-			</div>
-			<div class="modal-footer">
-				<button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-				<button type="button" class="btn btn-primary">Save changes</button>
-			</div>
-		</div>
-	</div>
-</div> <!-- Modal Pop Up -->
 
 <div role="main" class="main">
 	<section class="page-header page-header-modern custom-bg-color-1 page-header-lg mb-0">
@@ -142,16 +124,16 @@
 						<h2 class="text-color-dark font-weight-bold text-6 mb-4">Stage Level</h2>
 						<ul class="custom-nav-list-effect-1 list list-unstyled mb-0">
 							<li class="active">
-								<a href="demo-auto-services-services-detail.html" class="text-decoration-none text-color-dark text-color-hover-primary text-3-5">Survival</a>
+								<a href="/survival" class="text-decoration-none text-color-dark text-color-hover-primary text-3-5">Survival</a>
 							</li>
 							<li>
-								<a href="demo-auto-services-services-detail.html" class="text-decoration-none text-color-dark text-color-hover-primary text-3-5">Waystage</a>
+								<a href="/waystage" class="text-decoration-none text-color-dark text-color-hover-primary text-3-5">Waystage</a>
 							</li>
 							<li>
-								<a href="demo-auto-services-services-detail.html" class="text-decoration-none text-color-dark text-color-hover-primary text-3-5">Treshold</a>
+								<a href="/treshold" class="text-decoration-none text-color-dark text-color-hover-primary text-3-5">Treshold</a>
 							</li>
 							<li>
-								<a href="demo-auto-services-services-detail.html" class="text-decoration-none text-color-dark text-color-hover-primary text-3-5">Milestone</a>
+								<a href="/milestone" class="text-decoration-none text-color-dark text-color-hover-primary text-3-5">Milestone</a>
 							</li>
 						</ul>
 					</div>
