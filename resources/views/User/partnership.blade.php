@@ -2,7 +2,7 @@
 @section('main_content')
 <div role="main" class="main">
 
-<section class="page-header page-header-modern custom-bg-color-1 page-header-lg mb-0">
+    <section class="page-header page-header-modern custom-bg-color-1 page-header-lg mb-0">
         <div class="container">
             <div class="row py-lg-5 text-center text-lg-start">
                 <div class="col-lg-8 order-2 order-lg-1 align-self-center p-static">
@@ -21,20 +21,6 @@
     </section>
 
     <div class="container py-5">
-        <div class="row py-5 justify-content-center">
-            <div class="col-lg-8 text-center">
-                <span class="bg-gradient text-light d-inline-block text-3-5 rounded-pill px-4 py-1 font-weight-medium mb-3">Project Details</span>
-                <div class="perspective-500">
-                    <h2 class="custom-hero-font-1 appear-animation" data-appear-animation="textEntrance" data-appear-animation-delay="0"><strong>Okler Themes</strong></h2>
-                </div>
-                <div class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="200">
-                    <p class="text-4-5 text-dark line-height-6 mb-0">They needed a solution that would not only address their immediate concerns but also set them up for long-term success in a highly competitive market.</p>
-                </div>
-                <div class="appear-animation pt-4" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="500">
-                    <a href="http://www.okler.net" target="_blank" class="btn btn-modern btn-effect-4 btn-rounded btn-dark text-transform-none text-3 font-weight-medium mt-2 mb-2">http://www.okler.net <i class="fas fa-arrow-right rotate-l-45 ms-2"></i></a>
-                </div>
-            </div>
-        </div>
         <div class="row justify-content-between align-items-center">
             <div class="col-lg-6 text-center">
                 <div class="row align-items-center">

@@ -41,11 +41,12 @@
     <!-- Demo CSS -->
     <link rel="stylesheet" href="{{ asset('assets/css/demos/demo-marketing-1.css')}}">
     <link rel="stylesheet" href="{{ asset('assets/css/demos/demo-auto-services.css')}}"> <!-- untuk css service dari template auto service -->
-    <link rel="stylesheet" href="css/demos/demo-business-consulting-4.css"> <!-- css testimoni -->
+    <link rel="stylesheet" href="{{ asset('assets/css/demos/demo-business-consulting-4.css')}}"> <!-- css testimoni -->
 
     <!-- Skin CSS -->
+    <link id="skinCSS" rel="stylesheet" href="{{ asset('assets/css/skins/default.css')}}"> <!-- Untuk Ajax Modal -->
     <link id="skinCSS" rel="stylesheet" href="{{ asset('assets/css/skins/skin-marketing-1.css')}}">
-    <link id="skinCSS" rel="stylesheet" href="{{ asset('assets/css/skins/skin-auto-services.css')}}"> <!-- untuk css service dari template auto service -->
+    <!-- <link id="skinCSS" rel="stylesheet" href="{{ asset('assets/css/skins/skin-auto-services.css')}}"> --> <!-- untuk css service dari template auto service -->
 
     <!-- Theme Custom CSS -->
     <link rel="stylesheet" href="{{ asset('assets/css/custom.css')}}">
@@ -77,11 +78,6 @@
                                                 <li>
                                                     <a class="nav-link active" href="/landing">
                                                         Home
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a class="nav-link active" href="/homes">
-                                                        Homes
                                                     </a>
                                                 </li>
 
@@ -138,7 +134,6 @@
                                                                 <li><a class="dropdown-item" href="/elektronika">Elektronika</a></li>
                                                             </ul>
                                                         </li>
-                                                        <li> <a href="/team" class="nav-link">Our Team</a> </li>
                                                     </ul>
                                                 </li>
 
@@ -156,11 +151,12 @@
                                                         <li> <a href="/brick" class="nav-link">Brick</a> </li>
                                                         <li> <a href="/wedo" class="nav-link">Wedo</a> </li>
 
-                                                        <li>
+                                                        <!-- <li>
                                                             <hr class="dropdown-divider">
-                                                        </li>
+                                                        </li> -->
+
                                                         <!-- dibaris ini tambahin judul foto -->
-                                                        <li><a class="dropdown-item" href="/linefollow">Line Follower robot</a></li>
+                                                        <li><a class="dropdown-item" href="/linefollower">Line Follower robot</a></li>
                                                     </ul>
                                                 </li>
 
@@ -173,9 +169,10 @@
                                                         <li> <a href="/mechacompe" class="nav-link">Mechatron Robotic Competition</a> </li>
                                                         <!-- <li> <a href="#" class="nav-link">Seminar & Workshop</a> </li> -->
 
-                                                        <li>
+                                                        <!--  <li>
                                                             <hr class="dropdown-divider">
-                                                        </li>
+                                                        </li> -->
+
                                                         <!-- di baris ini tambahin judul video -->
                                                         <li><a class="dropdown-item" href="/vidiokegiatan">Video Kegiatan</a></li>
                                                         <li><a class="dropdown-item" href="/vidiotutorial">Video Tutorial</a></li>
@@ -277,7 +274,7 @@
                                                 <!-- Halaman  contact -->
                                                 <li>
                                                     <a class="nav-link nav-link-custom-1" href="/contact">
-                                                        <span>Let's Talk!</span>
+                                                        <span>Contact Us</span>
                                                     </a>
                                                 </li>
                                             </ul>
@@ -303,7 +300,7 @@
                         <h5 class="text-3 mb-3">ABOUT US</h5>
                         <p class="mt-2 mb-2">Mechatron adalah suatu lembaga yang bergerak di bidang otomasi yang saat ini sedang mengembangkan pengajaran tentang mekatronika.
                             Metode pengajaran diarahkan khususnya kepada para pelajar sekolah, mulai dari Preschool hingga High School.</p>
-                        <p><a href="#" class="btn-flat btn-xs text-color-light"><strong class="text-2">VIEW MORE</strong><i class="fas fa-angle-right p-relative top-1 ps-2"></i></a></p>
+                        <p><a href="/about1" class="btn-flat btn-xs text-color-light"><strong class="text-2">VIEW MORE</strong><i class="fas fa-angle-right p-relative top-1 ps-2"></i></a></p>
                         <div class="row pt-3">
                             <div class="col-6 col-lg-3 mb-4 mb-lg-0">
                                 <h5 class="text-3 mb-3">BLOG</h5>
@@ -389,11 +386,11 @@
             </div>
         </footer>
 
-        <!-- <a class="style-switcher-open-loader" href="#" data-base-path="" data-skin-src="assets/master/less/skin-marketing-1.less" data-bs-toggle="tooltip" data-bs-animation="false" data-bs-placement="right" title="Style Switcher" aria-label="Style Switcher"><i class="fas fa-cogs"></i>
-        <div class="style-switcher-tooltip"><strong>Style Switcher</strong>
-            <p>Check out different color options and styles.</p>
-        </div>
-    </a> -->
+        <!--  <a class="style-switcher-open-loader" href="#" data-base-path="" data-skin-src="assets/master/less/skin-marketing-1.less" data-bs-toggle="tooltip" data-bs-animation="false" data-bs-placement="right" title="Style Switcher" aria-label="Style Switcher"><i class="fas fa-cogs"></i>
+            <div class="style-switcher-tooltip"><strong>Style Switcher</strong>
+                <p>Check out different color options and styles.</p>
+            </div>
+        </a> -->
 
         <!-- Vendor -->
         <script src="assets/vendor/plugins/js/plugins.min.js"></script>
@@ -409,6 +406,7 @@
         <script src="assets/js/demos/demo-marketing-1.js"></script>
         <script src="js/demos/demo-auto-services.js"></script> <!-- js dari auto services -->
 
+
         <!-- Current Page Vendor and Views -->
         <script src="assets/js/views/view.contact.js"></script>
 
@@ -420,12 +418,13 @@
 
         <!-- Examples -->
         <script src="assets/js/examples/examples.animations.js"></script>
+        <script src="js/examples/examples.portfolio.js"></script>
 
         <!-- Selector Team -->
         <!-- <script src="{{ asset('js/team-selector.js') }}"></script>  -->
 
         <!-- Bootstrap 5 JS + Popper --> <!-- untuk pop up modal -->
-        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 
         <script>
             // Script untuk menampilkan popup otomatis saat halaman dimuat
@@ -436,6 +435,7 @@
                 myModal.show();
             });
         </script>
+
 
 
 </body>

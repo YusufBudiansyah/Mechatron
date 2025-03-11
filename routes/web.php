@@ -182,8 +182,8 @@ Route::get('/brick', function () {
 Route::get('/wedo', function () {
     return view('User.wedo');
 });
-Route::get('/linefollow', function () {
-    return view('User.linefollow');
+Route::get('/linefollower', function () {
+    return view('User.linefollower');
 });
 
 //Halaman Dropdown Galery
@@ -199,6 +199,41 @@ Route::get('/vidiokegiatan', function () {
 Route::get('/vidiotutorial', function () {
     return view('User.vidiotutorial');
 });
+
+//Halaman Ajax Galery
+Route::get('/galery1', function () {
+    return view('User.galery1');
+});
+
+Route::get('/galery2', function () {
+    return view('User.galery2');
+});
+
+Route::get('/galery3', function () {
+    return view('User.galery3');
+});
+
+Route::get('/galery4', function () {
+    return view('User.galery4');
+});
+
+Route::get('/galery5', function () {
+    return view('User.galery5');
+});
+
+Route::get('/galery6', function () {
+    return view('User.galery6');
+});
+
+Route::get('/galery7', function () {
+    return view('User.galery7');
+});
+
+Route::get('/galery8', function () {
+    return view('User.galery8');
+});
+
+
 
 
 

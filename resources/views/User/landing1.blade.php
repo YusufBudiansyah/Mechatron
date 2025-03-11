@@ -46,6 +46,63 @@
         </div>
     </section>
 
+    <!-- scrollable parallax carousell -->
+    <div class="parallax section section-text-light section-parallax section-center py-0 my-0 mb-5"
+        data-plugin-parallax
+        data-plugin-options="{'speed': 1.5, 'scrollableParallax': true, 'scrollableParallaxMinWidth': 991, 'startOffset': 10, 'cssProperty': 'width', 'cssValueStart': 40, 'cssValueEnd': 100, 'cssValueUnit': 'vw'}">
+
+        <div id="parallaxCarousel" class="carousel slide" data-bs-ride="carousel">
+            <div class="carousel-inner">
+                <!-- Slide 1 -->
+                <div class="carousel-item active" data-image-src="assets/img/cats/cats1.jpg" style="background-image: url('assets/img/cats/cats1.jpg'); background-size: cover; background-position: center;">
+                    <div class="d-flex justify-content-center">
+                        <div class="scrollable-parallax-wrapper mb-4">
+                            <div class="container py-5 my-5">
+                                <div class="row justify-content-center text-center py-5 my-5">
+                                    <div class="col-lg-9 py-5 my-5">
+                                        <h4 class="mb-4 fw-bold">Scrollable Parallax Slide 1</h4>
+                                        <p class="mb-4 text-light">
+                                            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                                        </p>
+                                        <a href="#" class="btn btn-primary btn-lg px-5 py-2">Learn More</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Slide 2 -->
+                <div class="carousel-item" data-image-src="assets/img/backgrounds/1.jpg" style="background-image: url('assets/img/backgrounds/1.jpg'); background-size: cover; background-position: center;">
+                    <div class="d-flex justify-content-center">
+                        <div class="scrollable-parallax-wrapper mb-4">
+                            <div class="container py-5 my-5">
+                                <div class="row justify-content-center text-center py-5 my-5">
+                                    <div class="col-lg-9 py-5 my-5">
+                                        <h4 class="mb-4 fw-bold">Scrollable Parallax Slide 2</h4>
+                                        <p class="mb-4 text-light">
+                                            Another inspiring text for the second slide.
+                                        </p>
+                                        <a href="#" class="btn btn-success btn-lg px-5 py-2">Explore</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Carousel Controls -->
+            <button class="carousel-control-prev" type="button" data-bs-target="#parallaxCarousel" data-bs-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#parallaxCarousel" data-bs-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Next</span>
+            </button>
+        </div>
+    </div>
 
 
     <div class="container text-center mt-5">
@@ -578,7 +635,7 @@
         </div>
     </div>
 
-    <section class="parallax section section-text-light section-parallax section-center py-0 my-0" data-plugin-parallax data-plugin-options="{'speed': 1.5, 'scrollableParallax': true, 'scrollableParallaxMinWidth': 991, 'startOffset': 10, 'cssProperty': 'width', 'cssValueStart': 40, 'cssValueEnd': 100, 'cssValueUnit': 'vw'}" data-image-src="assets/img/demos/marketing-1/generic/generic-7.jpg">
+    <section class="parallax section section-text-light section-parallax section-center py-0 my-0 mb-5" data-plugin-parallax data-plugin-options="{'speed': 1.5, 'scrollableParallax': true, 'scrollableParallaxMinWidth': 991, 'startOffset': 10, 'cssProperty': 'width', 'cssValueStart': 40, 'cssValueEnd': 100, 'cssValueUnit': 'vw'}" data-image-src="assets/img/demos/marketing-1/generic/generic-7.jpg">
         <div class="d-flex justify-content-center">
             <div class="scrollable-parallax-wrapper py-5">
                 <div class="container py-5 my-5">
@@ -590,14 +647,10 @@
         </div>
     </section>
 
-
-
-
-    <section class="section border-0 bg-dark m-0"> <!-- Changed bg-quaternary to bg-dark -->
+    <section class="section border-0 bg-dark m-0 mt-4">
         <div class="container py-5">
             <div class="row justify-content-center">
                 <div class="col col-lg-9 text-center">
-
                     <div class="divider divider-small divider-small-lg mt-0 text-center appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="0">
                         <hr class="bg-primary border-radius m-auto">
                     </div>
@@ -605,13 +658,11 @@
                         <h3 class="font-weight-semi-bold text-light text-uppercase positive-ls-3 text-4 line-height-2 line-height-sm-7 mb-0 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="100">What They Say About Us</h3>
                     </div>
                     <h2 class="text-light font-weight-bold text-8 pb-4 mb-0 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="200">Testimonials</h2>
-
                 </div>
             </div>
 
             <div class="row mt-4">
                 <div class="col appear-animation" data-appear-animation="fadeIn" data-appear-animation-delay="300">
-
                     <div class="owl-carousel owl-theme stage-margin rounded-nav nav-dark nav-icon-1 nav-size-md mb-0" data-plugin-options="{'responsive': {'0': {'items': 1}, '479': {'items': 1}, '768': {'items': 2}, '979': {'items': 2}, '1199': {'items': 2}}, 'margin': 0, 'loop': true, 'nav': true, 'dots': false, 'stagePadding': 40}">
                         <div class="mx-3">
                             <div class="testimonial testimonial-style-3 testimonial-style-3-light">
@@ -662,6 +713,7 @@
 
         </div>
     </section>
+
 
 
     <!-- <div class="custom-pos-13">
