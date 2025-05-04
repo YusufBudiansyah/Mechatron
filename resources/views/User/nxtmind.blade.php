@@ -21,59 +21,6 @@
         </div>
     </section>
 
-    <div class="bg-dark">
-
-        <div class="container py-4 py-lg-5">
-            <div class="row text-center text-lg-start py-lg-5">
-                <div class="col pb-4 pt-4 mt-4">
-                    <div class="overflow-hidden">
-                        <div class="appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="0">
-                            <span class="bg-quaternary text-secondary d-inline-block text-3-5 rounded-pill px-4 py-1 font-weight-medium me-2">What We Do</span>
-                        </div>
-                    </div>
-
-                    <div class="row align-items-center pt-5">
-                        <div class="col-lg-6 col-xl-4">
-                            <div class="text-lg-start">
-                                <div class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="0">
-                                    <img width="75" src="assets/img/demos/marketing-1/svg/icon-1.svg" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-secondary'}" />
-                                </div>
-                            </div>
-                            <div class="p-relative z-index-1 pt-3">
-                                <h3 class="text-light mb-3 text-8 ls-0 line-height-1">Strategy</h3>
-                                <p class="text-3-5 text-grey mb-4 pe-4">Over a decade of driving consistent growth, delivering impactful results, and empowering brands to achieve their fullest potential</p>
-                            </div>
-                        </div>
-                        <div class="col-lg-6 col-xl-4">
-                            <div class="text-lg-start">
-                                <div class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="200">
-                                    <img width="75" src="assets/img/demos/marketing-1/svg/icon-2.svg" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-secondary'}" />
-                                </div>
-                            </div>
-                            <div class="p-relative z-index-1 pt-3">
-                                <h3 class="text-light mb-3 text-8 ls-0 line-height-1">Marketing</h3>
-                                <p class="text-3-5 text-grey mb-4 pe-4">Millions in revenue generated through strategic campaigns, helping our clients achieve remarkable financial success and sustainable growth.</p>
-                            </div>
-                        </div>
-                        <div class="col-lg-6 col-xl-4">
-                            <div class="text-lg-start">
-                                <div class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="400">
-                                    <img width="75" src="assets/img/demos/marketing-1/svg/icon-3.svg" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-secondary'}" />
-                                </div>
-                            </div>
-                            <div class="p-relative z-index-1 pt-3">
-                                <h3 class="text-light mb-3 text-8 ls-0 line-height-1">Design</h3>
-                                <p class="text-3-5 text-grey mb-4 pe-4">Partnered with hundreds of businesses across diverse industries, delivering tailored marketing solutions that drive results and foster long-term success.</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-    </div>
-
-
     <div class="container my-5 pt-4 pb-5">
         <div class="row">
             <div class="col-lg-8 order-lg-2 mb-5 mb-lg-0 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="500">
@@ -141,52 +88,18 @@
                         </ul>
                     </div>
                 </div>
-                <div class="card bg-primary custom-border-radius-1">
-                    <div class="card-body text-center py-5 my-2">
-                        <h2 class="text-color-light font-weight-medium text-3 line-height-2 line-height-sm-1 mb-3 pb-1">LOOKING FOR HONEST AND RELIABLE SERVICES?</h2>
-                        <h3 class="font-weight-bold text-color-light text-transform-none text-8 line-height-3 mb-3">Best Mechanics Downtown Los Angeles CA</h3>
-                        <p class="font-weight-bold text-color-light text-4 opacity-7 mb-5">Make An Appointment Today With Our Online Form</p>
-                        <div class="feature-box custom-feature-box-justify-center align-items-center text-start mb-4">
-                            <div class="feature-box-icon bg-transparent">
-                                <i class="icons icon-phone text-8 text-color-light"></i>
-                            </div>
-                            <div class="feature-box-info line-height-2 ps-1">
-                                <span class="d-block text-4 font-weight-medium text-color-light mb-1">CALL US NOW</span>
-                                <strong class="text-6"><a href="tel:+1234567890" class="text-color-light text-decoration-none">+123 4567 890</a></strong>
-                            </div>
-                        </div>
-                        <a href="demo-auto-services-appointment.html" class="btn btn-light btn-outline custom-btn-border-radius font-weight-bold text-color-light text-color-hover-dark bg-color-hover-light btn-px-5 btn-py-3">MAKE AN APPOINTMENT</a>
-                    </div>
-                </div>
             </div>
         </div>
     </div>
 
-
-
-    <!-- <section class="parallax section section-text-light section-parallax section-center py-0 my-0"
-        data-plugin-parallax
-        data-plugin-options="{'speed': 1.5, 'scrollableParallax': true, 'scrollableParallaxMinWidth': 991, 'startOffset': 10, 'cssProperty': 'width', 'cssValueStart': 40, 'cssValueEnd': 100, 'cssValueUnit': 'vw'}"
-        data-image-src="assets/img/demos/marketing-1/generic/generic-7.jpg">
-        <div class="d-flex justify-content-center">
-            <div class="scrollable-parallax-wrapper py-5 pb-5"> Padding bottom ditambahkan
-                <div class="container py-5 my-5">
-                    <div class="row justify-content-center py-5 my-5">
-                        <div class="col-lg-9 py-lg-5 my-lg-5"></div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section> -->
-
-    <div class="container-fluid">
+    <!-- Jarak parallax kanan --> <!-- Padding bottom ditambahkan --> <!-- <div class="container-fluid">
         <div class="row">
             <div class="col-lg-6 p-0">
                 <section class="parallax section section-parallax h-100 m-0 pb-5"
                     data-plugin-parallax
                     data-plugin-options="{'speed': 1.5, 'horizontalPosition': '100%'}"
                     data-image-src="assets/img/parallax/parallax-2.jpg"
-                    style="min-height: 315px; margin-right: 15px;"></section> <!-- Jarak parallax kanan --> <!-- Padding bottom ditambahkan -->
+                    style="min-height: 315px; margin-right: 15px;"></section> 
             </div>
             <div class="col-lg-6 p-0">
                 <div class="h-100 m-0">
@@ -226,10 +139,11 @@
                     data-plugin-parallax
                     data-plugin-options="{'speed': 1.5, 'horizontalPosition': '100%'}"
                     data-image-src="assets/img/parallax/parallax-3.jpg"
-                    style="min-height: 315px; margin-left: 15px;"></section> <!-- Jarak parallax kiri --> <!-- Padding bottom ditambahkan -->
+                    style="min-height: 315px; margin-left: 15px;"></section> 
             </div>
         </div>
-    </div>
+    </div> -->
 
+    <!-- Jarak parallax kiri --> <!-- Padding bottom ditambahkan -->
 
     @endsection

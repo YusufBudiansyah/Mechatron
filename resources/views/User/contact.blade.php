@@ -3,7 +3,7 @@
 
 <div role="main" class="main">
 
-    <section class="page-header page-header-modern custom-bg-gradient-1 page-header-lg mb-0">
+    <!-- <section class="page-header page-header-modern custom-bg-gradient-1 page-header-lg mb-0">
         <div class="container">
             <div class="row py-4 text-center text-lg-start">
                 <div class="col-lg-8 order-2 order-lg-1 align-self-center p-static">
@@ -17,6 +17,24 @@
                 </div>
             </div>
         </div>
+    </section> -->
+
+    <section class="page-header page-header-modern custom-bg-color-1 page-header-lg mb-0">
+        <div class="container">
+            <div class="row py-lg-5 text-center text-lg-start">
+                <div class="col-lg-8 order-2 order-lg-1 align-self-center p-static">
+                    <div data-plugin-float-element data-plugin-options="{'minWindowWidth': 992, 'startPos': 'bottom', 'speed': 0.4, 'transition': true, 'transitionDuration': 1000}">
+                        <h1 class="text-color-dark font-weight-semi-bold text-lg-12 appear-animation" data-appear-animation="fadeIn" data-appear-animation-delay="0"><mark class="bg-transparent d-inline-block p-0 mark mark-color mark-color-tertiary">Event</mark></h1>
+                    </div>
+                </div>
+                <div class="col-lg-4 order-1 order-lg-2 align-self-center">
+                    <ul class="breadcrumb d-flex justify-content-center justify-content-lg-end text-4-5">
+                        <li><a href="/landing" class="text-color-dark text-color-hover-primary text-transform-none text-decoration-none">Home</a></li>
+                        <li class="active text-color-primary text-transform-none">Event</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
     </section>
 
     <div class="container py-5">
@@ -26,7 +44,7 @@
                     <span class="bg-gradient text-light d-inline-block text-3-5 rounded-pill px-4 py-1 font-weight-medium mb-2">Let's Go</span>
                     <h3 class="custom-font-1">Nanti diganti yang ini sama Teks bawahnya</h3>
                     <p class="text-dark text-4-5 line-height-9 pt-2">
-                    Mechatron adalah suatu lembaga yang bergerak di bidang otomasi yang saat ini sedang mengembangkan pengajaran tentang mekatronika. Metode pengajaran diarahkan khususnya kepada para pelajar sekolah, mulai dari Preschool hingga High School.
+                        Mechatron adalah suatu lembaga yang bergerak di bidang otomasi yang saat ini sedang mengembangkan pengajaran tentang mekatronika. Metode pengajaran diarahkan khususnya kepada para pelajar sekolah, mulai dari Preschool hingga High School.
                     </p>
 
                     <!--<ul class="list list-unstyled mx-auto mx-lg-0 my-4 pt-2 pb-1">
@@ -41,7 +59,7 @@
                     <a href="https://www.instagram.com/mechatron_robotic/" class="btn btn-modern btn-effect-4 btn-rounded btn-dark btn-social bg-hover-primary text-transform-none text-4 py-2 font-weight-medium mb-2">Instagram <i class="fas fa-arrow-right rotate-l-45 ms-1"></i></a>
                     <a href="https://www.tiktok.com/@mechatron_robotic" class="btn btn-modern btn-effect-4 btn-rounded btn-dark btn-social bg-hover-primary text-transform-none text-4 py-2 font-weight-medium mb-2">Tiktok <i class="fas fa-arrow-right rotate-l-45 ms-1"></i></a>
                     <a href="https://www.youtube.com/@mechatronstore" class="btn btn-modern btn-effect-4 btn-rounded btn-dark btn-social bg-hover-primary text-transform-none text-4 py-2 font-weight-medium mb-2">Youtube <i class="fas fa-arrow-right rotate-l-45 ms-1"></i></a>
-                    <a href="https://wa.me/+6282311880796" class="btn btn-modern btn-effect-4 btn-rounded btn-dark btn-social bg-hover-primary text-transform-none text-4 py-2 font-weight-medium mb-2">Whatsapp <i class="fas fa-arrow-right rotate-l-45 ms-1"></i></a>            
+                    <a href="https://wa.me/+6282311880796" class="btn btn-modern btn-effect-4 btn-rounded btn-dark btn-social bg-hover-primary text-transform-none text-4 py-2 font-weight-medium mb-2">Whatsapp <i class="fas fa-arrow-right rotate-l-45 ms-1"></i></a>
 
                 </div>
             </div>

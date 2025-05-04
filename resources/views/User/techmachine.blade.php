@@ -2,7 +2,7 @@
 @section('main_content')
 
 <!-- Modal Popup -->
-<div class="modal fade" id="eventPopup" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<!-- <div class="modal fade" id="eventPopup" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-xl">
         <div class="modal-content">
             <div class="modal-header">
@@ -18,7 +18,7 @@
             </div>
         </div>
     </div>
-</div> <!-- Modal Pop Up -->
+</div> --> <!-- Modal Pop Up -->
 
 <div role="main" class="main">
     <section class="page-header page-header-modern custom-bg-color-1 page-header-lg mb-0">
