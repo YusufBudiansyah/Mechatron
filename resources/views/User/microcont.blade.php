@@ -8,13 +8,13 @@
             <div class="row py-lg-5 text-center text-lg-start">
                 <div class="col-lg-8 order-2 order-lg-1 align-self-center p-static">
                     <div data-plugin-float-element data-plugin-options="{'minWindowWidth': 992, 'startPos': 'bottom', 'speed': 0.4, 'transition': true, 'transitionDuration': 1000}">
-                        <h1 class="text-color-dark font-weight-semi-bold text-lg-12 appear-animation" data-appear-animation="fadeIn" data-appear-animation-delay="0"><mark class="bg-transparent d-inline-block p-0 mark mark-color mark-color-tertiary">Line Follower Robot</mark></h1>
+                        <h1 class="text-color-dark font-weight-semi-bold text-lg-12 appear-animation" data-appear-animation="fadeIn" data-appear-animation-delay="0"><mark class="bg-transparent d-inline-block p-0 mark mark-color mark-color-tertiary">Microcontroller</mark></h1>
                     </div>
                 </div>
                 <div class="col-lg-4 order-1 order-lg-2 align-self-center">
                     <ul class="breadcrumb d-flex justify-content-center justify-content-lg-end text-4-5">
                         <li><a href="/landing" class="text-color-dark text-color-hover-primary text-transform-none text-decoration-none">Home</a></li>
-                        <li class="active text-color-primary text-transform-none">Line Follower Robot</li>
+                        <li class="active text-color-primary text-transform-none">Microcontroller</li>
                     </ul>
                 </div>
             </div>
@@ -175,20 +175,6 @@
             </div>
         </div>
     </section>
-
-    <div class="custom-bg-gradient-1 py-5">
-        <div class="container py-5">
-            <div class="row py-5 justify-content-center">
-                <div class="col-lg-8 text-center">
-                    <div class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="0">
-                        <span class="bg-light text-primary d-inline-block text-3-5 rounded-pill px-4 py-1 font-weight-medium mb-3">Are You Ready?</span>
-                        <h3 class="custom-font-1 mb-0">We handle every aspect of your marketing journey with expertise and dedication</h3>
-                        <a href="#" class="text-dark text-hover-primary text-6 line-height-10 text-decoration-underline-2 border-width-2 d-inline-flex mt-5 font-weight-semibold">Let's Talk!</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
 
 </div>
 

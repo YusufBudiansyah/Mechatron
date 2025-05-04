@@ -25,7 +25,7 @@
             <div class="col-xl-8">
                 <div class="overflow-hidden">
                     <div class="appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="0">
-                        <h3 class="custom-font-1">Driving growth through innovative, results-focused marketing strategies and solutions</h3>
+                        <h1>Membantu pertumbuhan dan perkembangan anak dengan media teknologi dan mengedepankan inovasi dalam prosesnya</h1>
                     </div>
                 </div>
             </div>
