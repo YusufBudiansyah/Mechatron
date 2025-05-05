@@ -64,7 +64,7 @@
                             <div class="header-row">
                                 <div class="header-logo">
                                     <a href="/landing">
-                                        <img alt="Porto" width="130" height="32" src="assets/img/logo-mct/logoputihmech.png">
+                                        <img alt="Porto" width="130" height="32" src="assets/img/demos/marketing-1/logo.png">
                                     </a>
                                 </div>
                             </div>
@@ -100,46 +100,9 @@
                                                 </li>
 
                                                 <!--Services submenu navbar-->
-                                                <li class="dropdown dropdown-full-color dropdown-dark">
-                                                    <a href="/service" class="dropdown-item dropdown-toggle text-hover-primary">Services</a>
-                                                    <ul class="dropdown-menu">
-                                                        <li class="dropdown-submenu">
-                                                            <a class="dropdown-item">Stage Level</a>
-                                                            <ul class="dropdown-menu">
-                                                                <li><a class="dropdown-item" href="/survival">Survival Level</a></li>
-                                                                <li><a class="dropdown-item" href="/waystage">Waystage Level</a></li>
-                                                                <li><a class="dropdown-item" href="/treshold">Treshold Level</a></li>
-                                                                <li><a class="dropdown-item" href="/milestone">Milestone Level</a></li>
-                                                            </ul>
-                                                        </li>
 
-                                                        <li class="dropdown-submenu">
-                                                            <a class="dropdown-item">Activities & Programs</a>
-                                                            <ul class="dropdown-menu">
-                                                                <li><a class="dropdown-item" href="/intrakulikuler">Intrakulikuler</a></li>
-                                                                <li><a class="dropdown-item" href="/ekstrakulikuler">Ekstrakulikuler</a></li>
-                                                                <li><a class="dropdown-item" href="/seminar">Seminar Robotic</a></li>
-                                                                <li><a class="dropdown-item" href="/workshop">Workshop robotic</a></li>
-                                                            </ul>
-                                                        </li>
 
-                                                        <li class="dropdown-submenu">
-                                                            <a class="dropdown-item small" href="/hardware">Hardware & Programing</a> <!--kecilin teks hardware and programming-->
-                                                            <ul class="dropdown-menu">
-                                                                <!-- <li><a class="dropdown-item" href="/teacher">Teacher</a></li> -->
-                                                                <li><a class="dropdown-item" href="/nxtmind">NXT Mindstorm</a></li>
-                                                                <li><a class="dropdown-item" href="/linefollower">Line Follower Robot</a></li>
-                                                                <li><a class="dropdown-item" href="/microcont">Microcontroller</a></li>
-                                                                <li><a class="dropdown-item" href="/arduino">Arduino</a></li>
-                                                                <li><a class="dropdown-item" href="/elektronika">Elektronika</a></li>
-                                                            </ul>
-                                                        </li>
-                                                    </ul>
-                                                </li>
 
-                                                <!-- <li> <a class="nav-link" href="/service"> Services</a> </li> -->
-
-                                                <!--  <li> <a class="nav-link" href="/process"> Our Process </a> </li> -->
 
                                                 <!-- Product Navbar Page -->
                                                 <li class="dropdown dropdown-full-color dropdown-dark">
@@ -162,21 +125,8 @@
 
                                                 <!-- Galeri Navbar Page -->
                                                 <li class="dropdown dropdown-full-color dropdown-dark">
-                                                    <a href="/galery" class="dropdown-item dropdown-toggle text-hover-primary">Gallery</a>
-                                                    <ul class="dropdown-menu">
-                                                        <!-- dibaris ini nambah judul kecil bernama "Foto" -->
-                                                        <li> <a href="/kegiatan" class="nav-link">Kegiatan belajar mengajar</a></li>
-                                                        <li> <a href="/mechacompe" class="nav-link">Mechatron Robotic Competition</a> </li>
-                                                        <!-- <li> <a href="#" class="nav-link">Seminar & Workshop</a> </li> -->
+                                                    <a href="/galery">Galery</a>
 
-                                                        <!--  <li>
-                                                            <hr class="dropdown-divider">
-                                                        </li> -->
-
-                                                        <!-- di baris ini tambahin judul video -->
-                                                        <li><a class="dropdown-item" href="/vidiokegiatan">Video Kegiatan</a></li>
-                                                        <li><a class="dropdown-item" href="/vidiotutorial">Video Tutorial</a></li>
-                                                    </ul>
                                                 </li>
 
                                                 <!-- partnership Navbar Page -->
@@ -187,88 +137,6 @@
                                                         <li> <a href="/event" class="nav-link">Event</a> </li>
                                                     </ul>
                                                 </li>
-
-                                                <!--  <li class="dropdown dropdown-mega">
-                                                    <a class="dropdown-item dropdown-toggle" href="elements.html"> Elements </a>
-
-                                                    <ul class="dropdown-menu border-top border-top-light mt-0">
-
-                                                        <li>
-                                                            <div class="dropdown-mega-content container container-xl-custom px-2">
-                                                                <div class="row px-1">
-                                                                    <div class="col-lg-3">
-                                                                        <span class="dropdown-mega-sub-title">Elements 1</span>
-                                                                        <ul class="dropdown-mega-sub-nav">
-                                                                            <li><a class="dropdown-item" href="elements-accordions.html">Accordions</a></li>
-                                                                            <li><a class="dropdown-item" href="elements-alerts.html">Alerts</a></li>
-                                                                            <li><a class="dropdown-item" href="elements-animations.html">Animations <span class="tip tip-dark p-relative bottom-2">hot</span></a></li>
-                                                                            <li><a class="dropdown-item" href="elements-arrows.html">Arrows</a></li>
-                                                                            <li><a class="dropdown-item" href="elements-badges.html">Badges</a></li>
-                                                                            <li><a class="dropdown-item" href="elements-before-after.html">Before / After</a></li>
-                                                                            <li><a class="dropdown-item" href="elements-blockquotes.html">Blockquotes</a></li>
-                                                                            <li><a class="dropdown-item" href="elements-buttons.html">Buttons</a></li>
-                                                                            <li><a class="dropdown-item" href="elements-call-to-action.html">Call to Action</a></li>
-                                                                            <li><a class="dropdown-item" href="elements-cards.html">Cards</a></li>
-                                                                            <li><a class="dropdown-item" href="elements-carousels.html">Carousels</a></li>
-                                                                            <li><a class="dropdown-item" href="elements-cascading-images.html">Cascading Images</a></li>
-                                                                        </ul>
-                                                                    </div>
-                                                                    <div class="col-lg-3">
-                                                                        <span class="dropdown-mega-sub-title">Elements 2</span>
-                                                                        <ul class="dropdown-mega-sub-nav">
-                                                                            <li><a class="dropdown-item" href="elements-content-rotate.html">Content Rotate</a></li>
-                                                                            <li><a class="dropdown-item" href="elements-countdowns.html">Countdowns</a></li>
-                                                                            <li><a class="dropdown-item" href="elements-counters.html">Counters</a></li>
-                                                                            <li><a class="dropdown-item" href="elements-dividers.html">Dividers</a></li>
-                                                                            <li><a class="dropdown-item" href="elements-forms.html">Forms</a></li>
-                                                                            <li><a class="dropdown-item" href="elements-headings.html">Headings</a></li>
-                                                                            <li><a class="dropdown-item" href="elements-icons.html">Icons</a></li>
-                                                                            <li><a class="dropdown-item" href="elements-icon-boxes.html">Icon Boxes</a></li>
-                                                                            <li><a class="dropdown-item" href="elements-image-frames.html">Image Frames <span class="tip tip-dark p-relative bottom-2">hot</span></a></li>
-                                                                            <li><a class="dropdown-item" href="elements-image-gallery.html">Image Gallery</a></li>
-                                                                            <li><a class="dropdown-item" href="elements-image-hotspots.html">Image Hotspots</a></li>
-                                                                            <li><a class="dropdown-item" href="elements-lightboxes.html">Lightboxes</a></li>
-                                                                        </ul>
-                                                                    </div>
-                                                                    <div class="col-lg-3">
-                                                                        <span class="dropdown-mega-sub-title">Elements 3</span>
-                                                                        <ul class="dropdown-mega-sub-nav">
-                                                                            <li><a class="dropdown-item" href="elements-lists.html">Lists</a></li>
-                                                                            <li><a class="dropdown-item" href="elements-maps.html">Maps</a></li>
-                                                                            <li><a class="dropdown-item" href="elements-medias.html">Medias</a></li>
-                                                                            <li><a class="dropdown-item" href="elements-modals.html">Modals</a></li>
-                                                                            <li><a class="dropdown-item" href="elements-parallax.html">Parallax</a></li>
-                                                                            <li><a class="dropdown-item" href="elements-particles.html">Particles</a></li>
-                                                                            <li><a class="dropdown-item" href="elements-posts.html">Posts</a></li>
-                                                                            <li><a class="dropdown-item" href="elements-pricing-tables.html">Pricing Tables</a></li>
-                                                                            <li><a class="dropdown-item" href="elements-process.html">Process</a></li>
-                                                                            <li><a class="dropdown-item" href="elements-progressbars.html">Progress Bars</a></li>
-                                                                            <li><a class="dropdown-item" href="elements-random-images.html">Random Images</a></li>
-                                                                            <li><a class="dropdown-item" href="elements-read-more.html">Read More</a></li>
-                                                                        </ul>
-                                                                    </div>
-                                                                    <div class="col-lg-3">
-                                                                        <span class="dropdown-mega-sub-title">Elements 4</span>
-                                                                        <ul class="dropdown-mega-sub-nav">
-                                                                            <li><a class="dropdown-item" href="elements-sections.html">Sections</a></li>
-                                                                            <li><a class="dropdown-item" href="elements-shape-dividers.html">Shape Dividers</a></li>
-                                                                            <li><a class="dropdown-item" href="elements-star-ratings.html">Star Ratings</a></li>
-                                                                            <li><a class="dropdown-item" href="elements-sticky-elements.html">Sticky Elements</a></li>
-                                                                            <li><a class="dropdown-item" href="elements-tables.html">Tables</a></li>
-                                                                            <li><a class="dropdown-item" href="elements-tabs.html">Tabs</a></li>
-                                                                            <li><a class="dropdown-item" href="elements-testimonials.html">Testimonials</a></li>
-                                                                            <li><a class="dropdown-item" href="elements-toggles.html">Toggles</a></li>
-                                                                            <li><a class="dropdown-item" href="elements-tooltips-popovers.html">Tooltips & Popovers</a></li>
-                                                                            <li><a class="dropdown-item" href="elements-typography.html">Typography</a></li>
-                                                                            <li><a class="dropdown-item" href="elements-word-rotator.html">Word Rotator</a></li>
-                                                                            <li><a class="dropdown-item" href="elements-360-image-viewer.html">360º Image Viewer</a></li>
-                                                                        </ul>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </li>
-                                                    </ul>
-                                                </li> -->
 
                                                 <!-- Halaman  contact -->
                                                 <li>
@@ -302,56 +170,60 @@
                         <p><a href="/about1" class="btn-flat btn-xs text-color-light"><strong class="text-2">VIEW MORE</strong><i class="fas fa-angle-right p-relative top-1 ps-2"></i></a></p>
                         <div class="row pt-3">
                             <div class="col-6 col-lg-3 mb-4 mb-lg-0">
-                                <h5 class="text-3 mb-3">About</h5>
+                                <h5 class="text-3 mb-3">BLOG</h5>
                                 <ul class="list list-icons list-icons-sm mb-0">
-                                    <li><i class="fas fa-angle-right top-8"></i> <a class="link-hover-style-1" href="/about1">Who We Are</a></li>
-                                    <li><i class="fas fa-angle-right top-8"></i> <a class="link-hover-style-1" href="/team">Our Team</a></li>
+                                    <li><i class="fas fa-angle-right top-8"></i> <a class="link-hover-style-1" href="blog-full-width.html">Blog Full Width</a></li>
+                                    <li><i class="fas fa-angle-right top-8"></i> <a class="link-hover-style-1" href="blog-large-image.html">Blog Large Image</a></li>
+                                    <li><i class="fas fa-angle-right top-8"></i> <a class="link-hover-style-1" href="blog-medium-image.html">Blog Medium Image</a></li>
+                                    <li><i class="fas fa-angle-right top-8"></i> <a class="link-hover-style-1" href="blog-post.html">Single Post</a></li>
                                 </ul>
                             </div>
                             <div class="col-6 col-lg-3 mb-4 mb-lg-0">
-                                <h5 class="text-3 mb-3">Services</h5>
+                                <h5 class="text-3 mb-3">PAGES</h5>
                                 <ul class="list list-icons list-icons-sm mb-0">
-                                    <li><i class="fas fa-angle-right top-8"></i> <a class="link-hover-style-1" href="/stage">Stage Level</a></li>
-                                    <li><i class="fas fa-angle-right top-8"></i> <a class="link-hover-style-1" href="/activities">Activities & Programs</a></li>
-                                    <li><i class="fas fa-angle-right top-8"></i> <a class="link-hover-style-1" href="/hardware">Hardware & Programming</a></li>
+                                    <li><i class="fas fa-angle-right top-8"></i> <a class="link-hover-style-1" href="page-full-width.html">Full width</a></li>
+                                    <li><i class="fas fa-angle-right top-8"></i> <a class="link-hover-style-1" href="page-left-sidebar.html">Left sidebar</a></li>
+                                    <li><i class="fas fa-angle-right top-8"></i> <a class="link-hover-style-1" href="page-right-sidebar.html">Right sidebar</a></li>
+                                    <li><i class="fas fa-angle-right top-8"></i> <a class="link-hover-style-1" href="page-services.html">Services</a></li>
                                 </ul>
                             </div>
                             <div class="col-6 col-lg-3 mb-4 mb-lg-0">
-                                <h5 class="text-3 mb-3">Product</h5>
+                                <h5 class="text-3 mb-3">PORTFOLIO</h5>
                                 <ul class="list list-icons list-icons-sm mb-0">
-                                    <li><i class="fas fa-angle-right top-8"></i> <a class="link-hover-style-1" href="/nxtmind">NXT Mindstorm</a></li>
-                                    <li><i class="fas fa-angle-right top-8"></i> <a class="link-hover-style-1" href="/techmachine">Tech Machine Set</a></li>
-                                    <li><i class="fas fa-angle-right top-8"></i> <a class="link-hover-style-1" href="/brick">Brick</a></li>
-                                    <li><i class="fas fa-angle-right top-8"></i> <a class="link-hover-style-1" href="/wedo">Wedo</a></li>
-                                    <li><i class="fas fa-angle-right top-8"></i> <a class="link-hover-style-1" href="/linefollower">Line Follower Robot</a></li>
+                                    <li><i class="fas fa-angle-right top-8"></i> <a class="link-hover-style-1" href="portfolio-2-columns.html">2 Columns</a></li>
+                                    <li><i class="fas fa-angle-right top-8"></i> <a class="link-hover-style-1" href="portfolio-3-columns.html">3 Columns</a></li>
+                                    <li><i class="fas fa-angle-right top-8"></i> <a class="link-hover-style-1" href="portfolio-4-columns.html">4 Columns</a></li>
+                                    <li><i class="fas fa-angle-right top-8"></i> <a class="link-hover-style-1" href="portfolio-single-wide-slider.html">Single Project</a></li>
                                 </ul>
                             </div>
                             <div class="col-6 col-lg-3 mb-4 mb-lg-0">
-                                <h5 class="text-3 mb-3">Gallery</h5>
+                                <h5 class="text-3 mb-3">EXTRA</h5>
                                 <ul class="list list-icons list-icons-sm mb-0">
-                                    <li><i class="fas fa-angle-right top-8"></i> <a class="link-hover-style-1" href="/kegiatan">Kegiatan Belajar Mengajar</a></li>
-                                    <li><i class="fas fa-angle-right top-8"></i> <a class="link-hover-style-1" href="/mechacompe">Mechatron Robotic Competition</a></li>
-                                    <li><i class="fas fa-angle-right top-8"></i> <a class="link-hover-style-1" href="/videokegiatan">Video Kegiatan</a></li>
-                                    <li><i class="fas fa-angle-right top-8"></i> <a class="link-hover-style-1" href="/videotutorial">Video Tutorial</a></li>
+                                    <li><i class="fas fa-angle-right top-8"></i> <a class="link-hover-style-1" href="page-team.html">Team</a></li>
+                                    <li><i class="fas fa-angle-right top-8"></i> <a class="link-hover-style-1" href="page-services.html">Services</a></li>
+                                    <li><i class="fas fa-angle-right top-8"></i> <a class="link-hover-style-1" href="page-careers.html">Careers</a></li>
+                                    <li><i class="fas fa-angle-right top-8"></i> <a class="link-hover-style-1" href="page-faq.html">FAQ</a></li>
                                 </ul>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-3 mb-4 mb-lg-0">
                         <h5 class="text-3 mb-3 pb-1">CONTACT US</h5>
-                        <p class="text-8 text-color-light font-weight-bold"><a href="tel:0123456789" class="text-decoration-none text-color-light">(021) 7720 4700</a></p>
+                        <p class="text-8 text-color-light font-weight-bold"><a href="tel:0123456789" class="text-decoration-none text-color-light">(800) 123-4567</a></p>
+                        <p class="mb-2">International: <a href="tel:0123456789" class="text-decoration-none">(333) 456-6670</a></p>
+                        <p class="mb-2">Fax: (222) 531-8999</p>
                         <ul class="list list-icons list-icons-lg">
                             <li class="mb-1"><i class="far fa-dot-circle text-color-primary"></i>
-                                <p class="m-0">Jalan Margonda Raya no.1 Kota Depok, Jawa Barat</p>
+                                <p class="m-0">234 Street Name, City Name</p>
                             </li>
                             <li class="mb-1"><i class="far fa-envelope text-color-primary"></i>
-                                <p class="m-0"><a href="mailto:mail@example.com">mechatron.depok@gmail.com</a></p>
+                                <p class="m-0"><a href="mailto:mail@example.com">mail@example.com</a></p>
                             </li>
                         </ul>
                         <ul class="footer-social-icons social-icons mt-4">
-                            <li class="social-icons-instagram"><a href="https://www.instagram.com/mechatron_robotic/" target="_blank" title="Facebook"><i class="fa-brands fa-instagram"></i></a></li>
-                            <li class="social-icons-youtube"><a href="https://www.youtube.com/@mechatronstore" target="_blank" title="X"><i class="fa-brands fa-youtube"></i></a></li>
-                            <li class="social-icons-tiktok"><a href="https://www.tiktok.com/@mechatron.store" target="_blank" title="Linkedin"><i class="fa-brands fa-tiktok"></i></a></li>
+                            <li class="social-icons-facebook"><a href="http://www.facebook.com/" target="_blank" title="Facebook"><i class="fab fa-facebook-f text-2"></i></a></li>
+                            <li class="social-icons-x"><a href="http://www.x.com/" target="_blank" title="X"><i class="fab fa-x-twitter text-2"></i></a></li>
+                            <li class="social-icons-linkedin"><a href="http://www.linkedin.com/" target="_blank" title="Linkedin"><i class="fab fa-linkedin-in text-2"></i></a></li>
                         </ul>
                     </div>
                 </div>

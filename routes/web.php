@@ -122,6 +122,41 @@ Route::get('/workshop', function () {
     return view('User.workshop');
 });
 
+Route::get('/workshop1', function () {
+    return view('User.workshop1');
+});
+
+Route::get('/workshop2', function () {
+    return view('User.workshop2');
+});
+
+Route::get('/workshop3', function () {
+    return view('User.workshop3');
+});
+
+Route::get('/workshop4', function () {
+    return view('User.workshop4');
+});
+
+Route::get('/workshop4', function () {
+    return view('User.workshop4');
+});
+
+Route::get('/workshop5', function () {
+    return view('User.workshop5');
+});
+
+Route::get('/workshop6', function () {
+    return view('User.workshop6');
+});
+
+Route::get('/workshop7', function () {
+    return view('User.workshop7');
+});
+
+Route::get('/workshop8', function () {
+    return view('User.workshop8');
+});
 
 Route::get('/event', function () {
     return view('User.event');
