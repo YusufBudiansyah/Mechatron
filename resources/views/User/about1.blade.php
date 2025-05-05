@@ -25,43 +25,26 @@
             <div class="col-xl-8">
                 <div class="overflow-hidden">
                     <div class="appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="0">
-                        <h3 class="custom-font-1">Driving growth through innovative, results-focused marketing strategies and solutions</h3>
+                        <h1>Membantu pertumbuhan dan perkembangan anak dengan media teknologi dan mengedepankan inovasi dalam prosesnya</h1>
                     </div>
                 </div>
             </div>
-            <div class="col-xl-4 pt-5 pt-xl-0">
-                <div class="appear-animation" data-appear-animation="fadeIn" data-appear-animation-delay="800">
-                    <div class="hover-effect-3d" data-plugin-hover-effect data-plugin-options="{'effect': '3d', 'selector': '.hover-effect-3d-wrapper', 'sensitivity': 20}">
-                        <div class="hover-effect-3d-wrapper">
-                            <a href="#">
-                                <span class="bg-gradient text-light anim-hover-scale-1-2 transition-3ms d-inline-flex align-items-center text-3-5 rounded-pill px-4 py-1 font-weight-500 me-2 mb-4">
-                                    <span><img src="assets/img/demos/marketing-1/concept/concept-10.png" alt="" class="rounded-pill img-fluid my-2 p-relative right-7 me-2"></span>
-                                    <span class="rounded-circle bg-light d-inline-block"><img width="68" class="scale-1" src="assets/img/demos/marketing-1/svg/generic-2.svg" alt="" /></span>
-                                </span>
-                            </a>
+
+            <section class="parallax section section-text-light section-parallax section-center py-0 my-0" data-plugin-parallax data-plugin-options="{'speed': 1.5, 'scrollableParallax': true, 'scrollableParallaxMinWidth': 991, 'startOffset': 10, 'cssProperty': 'width', 'cssValueStart': 40, 'cssValueEnd': 100, 'cssValueUnit': 'vw'}" data-image-src="assets/img/cats/cats1.jpg">
+                <div class="d-flex justify-content-center">
+                    <div class="scrollable-parallax-wrapper py-5">
+                        <div class="container py-5 my-5">
+                            <div class="row justify-content-center py-5 my-5">
+                                <div class="col-lg-9 py-lg-5 my-lg-5"></div>
+                            </div>
                         </div>
                     </div>
                 </div>
-                <div class="appear-animation" data-appear-animation="fadeIn" data-appear-animation-delay="1000">
-                    <p class="text-4 mb-0">Unlock your brand's potential with tailored marketing strategies that connect, engage, and drive measurable results.</p>
-                </div>
-            </div>
+            </section>
         </div>
     </div>
 
-    <section class="parallax section section-text-light section-parallax section-center py-0 my-0" data-plugin-parallax data-plugin-options="{'speed': 1.5, 'scrollableParallax': true, 'scrollableParallaxMinWidth': 991, 'startOffset': 10, 'cssProperty': 'width', 'cssValueStart': 40, 'cssValueEnd': 100, 'cssValueUnit': 'vw'}" data-image-src="assets/img/demos/marketing-1/generic/generic-4.jpg">
-        <div class="d-flex justify-content-center">
-            <div class="scrollable-parallax-wrapper py-5">
-                <div class="container py-5 my-5">
-                    <div class="row justify-content-center py-5 my-5">
-                        <div class="col-lg-9 py-lg-5 my-lg-5"></div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <div class="bg-gradient py-4">
+    <!-- <div class="bg-gradient py-4">
         <div class="container py-5">
             <div class="row py-5 text-center text-xl-start align-items-center">
                 <div class="col-lg-4">
@@ -130,8 +113,7 @@
                 </div>
             </div>
         </div>
-
-    </div>
+    </div> -->
 
     <div class="container gsap-content-container">
         <div class="row">
@@ -151,7 +133,6 @@
 
                     </div>
                     <div class="col-7 col-lg-5 pb-4 gsap-content-text">
-
                         <div class="py-5 my-5">
                             <div class="gsap-content-marker" data-marker-content="img1">
                                 <div class="custom-heading-1 custom-pos-12">
@@ -223,38 +204,39 @@
         </div>
     </div>
 
-    <section class="section border-top-0 custom-bg-color-1 m-0">
-        <div class="custom-el-2">
-            <div class="container pt-4 pb-5 p-relative z-index-1">
-                <div class="row text-center text-lg-start justify-content-between py-5">
-                    <div class="col-lg-4 py-5 px-4 px-lg-0">
-                        <div class="appear-animation" data-appear-animation="fadeIn" data-appear-animation-delay="0">
-                            <span class="bg-gradient text-light d-inline-block text-3 rounded-pill px-4 py-1 font-weight-medium me-2"><i class="fa-solid fa-star me-1"></i><i class="fa-solid fa-star me-1"></i><i class="fa-solid fa-star me-1"></i><i class="fa-solid fa-star me-1"></i><i class="fa-solid fa-star"></i></span>
-                            <p class="p-0 d-inline-block text-3-5">Beyond Expectations</p>
+    <!--  <section class="section border-top-0 custom-bg-color-1 m-0">
+            <div class="custom-el-2">
+                <div class="container pt-4 pb-5 p-relative z-index-1">
+                    <div class="row text-center text-lg-start justify-content-between py-5">
+                        <div class="col-lg-4 py-5 px-4 px-lg-0">
+                            <div class="appear-animation" data-appear-animation="fadeIn" data-appear-animation-delay="0">
+                                <span class="bg-gradient text-light d-inline-block text-3 rounded-pill px-4 py-1 font-weight-medium me-2"><i class="fa-solid fa-star me-1"></i><i class="fa-solid fa-star me-1"></i><i class="fa-solid fa-star me-1"></i><i class="fa-solid fa-star me-1"></i><i class="fa-solid fa-star"></i></span>
+                                <p class="p-0 d-inline-block text-3-5">Beyond Expectations</p>
+                            </div>
+                            <div class="appear-animation" data-appear-animation="fadeIn" data-appear-animation-delay="300">
+                                <h3 class="custom-font-2 mb-0">See what our clients are <span class="custom-word-highlight-1 d-inline-block p-relative"><span class="p-relative z-index-2">saying!</span><img width="100%" src="assets/img/demos/marketing-1/svg/generic-3.svg" alt=""></span></h3>
+                            </div>
                         </div>
-                        <div class="appear-animation" data-appear-animation="fadeIn" data-appear-animation-delay="300">
-                            <h3 class="custom-font-2 mb-0">See what our clients are <span class="custom-word-highlight-1 d-inline-block p-relative"><span class="p-relative z-index-2">saying!</span><img width="100%" src="assets/img/demos/marketing-1/svg/generic-3.svg" alt=""></span></h3>
-                        </div>
-                    </div>
-                    <div class="col-lg-6 py-5">
-                        <div class="appear-animation" data-appear-animation="fadeIn" data-appear-animation-delay="400">
-                            <div class="owl-carousel custom-owl-carousel-1 owl-theme stage-margin rounded-nav nav-icon-1 nav-size-md nav-position-1" data-plugin-options="{'responsive': {'0': {'items': 1}, '479': {'items': 1}, '768': {'items': 1}, '979': {'items': 1}, '1199': {'items': 1}}, 'margin': 10, 'autoHeight': true, 'loop': true, 'nav': true, 'dots': false, 'stagePadding': 40}">
-                                <div>
-                                    <div class="pe-5">
-                                        <p class="text-dark text-4-5 line-height-9">Beyound expectations with their innovative marketing strategies. They took the time to understand our brand, delivering targeted campaigns that significantly boosted.</p>
-                                        <strong class="text-color-primary text-uppercase font-weight-medium">John Doe, Porto Theme</strong>
+                        <div class="col-lg-6 py-5">
+                            <div class="appear-animation" data-appear-animation="fadeIn" data-appear-animation-delay="400">
+                                <div class="owl-carousel custom-owl-carousel-1 owl-theme stage-margin rounded-nav nav-icon-1 nav-size-md nav-position-1" data-plugin-options="{'responsive': {'0': {'items': 1}, '479': {'items': 1}, '768': {'items': 1}, '979': {'items': 1}, '1199': {'items': 1}}, 'margin': 10, 'autoHeight': true, 'loop': true, 'nav': true, 'dots': false, 'stagePadding': 40}">
+                                    <div>
+                                        <div class="pe-5">
+                                            <p class="text-dark text-4-5 line-height-9">Beyound expectations with their innovative marketing strategies. They took the time to understand our brand, delivering targeted campaigns that significantly boosted.</p>
+                                            <strong class="text-color-primary text-uppercase font-weight-medium">John Doe, Porto Theme</strong>
+                                        </div>
                                     </div>
-                                </div>
-                                <div>
-                                    <div class="pe-5">
-                                        <p class="text-dark text-4-5 line-height-9">Outstanding social media management! Our engagement doubled, and our brand presence has never been stronger. Highly recommend their services.</p>
-                                        <strong class="text-color-primary text-uppercase font-weight-medium">Robert Doe, Porto Theme</strong>
+                                    <div>
+                                        <div class="pe-5">
+                                            <p class="text-dark text-4-5 line-height-9">Outstanding social media management! Our engagement doubled, and our brand presence has never been stronger. Highly recommend their services.</p>
+                                            <strong class="text-color-primary text-uppercase font-weight-medium">Robert Doe, Porto Theme</strong>
+                                        </div>
                                     </div>
-                                </div>
-                                <div>
-                                    <div class="pe-5">
-                                        <p class="text-dark text-4-5 line-height-9">Their market research was incredibly thorough. It provided valuable insights that shaped our entire marketing strategy. Couldn't be happier with the outcome!</p>
-                                        <strong class="text-color-primary text-uppercase font-weight-medium">Monica Doe, Porto Theme</strong>
+                                    <div>
+                                        <div class="pe-5">
+                                            <p class="text-dark text-4-5 line-height-9">Their market research was incredibly thorough. It provided valuable insights that shaped our entire marketing strategy. Couldn't be happier with the outcome!</p>
+                                            <strong class="text-color-primary text-uppercase font-weight-medium">Monica Doe, Porto Theme</strong>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -262,6 +244,5 @@
                     </div>
                 </div>
             </div>
-        </div>
-    </section>
+        </section> -->
     @endsection
