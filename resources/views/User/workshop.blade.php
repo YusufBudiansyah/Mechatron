@@ -39,9 +39,9 @@
                                     <p>Euismod atras vulputate iltricies etri elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
 
                                     <div class="post-meta">
-                                        <span><i class="far fa-user"></i> By <a href="#">Bob Doe</a> </span>
+                                        <!--  <span><i class="far fa-user"></i> By <a href="#">Bob Doe</a> </span>
                                         <span><i class="far fa-folder"></i> <a href="#">News</a>, <a href="#">Design</a> </span>
-                                        <span><i class="far fa-comments"></i> <a href="#">12 Comments</a></span>
+                                        <span><i class="far fa-comments"></i> <a href="#">12 Comments</a></span> -->
                                         <span class="d-block mt-2"><a href="/workshop1" class="btn btn-xs btn-light text-1 text-uppercase">Read More</a></span>
                                     </div>
                                 </div>
@@ -61,9 +61,9 @@
                                     <p>Euismod atras vulputate iltricies etri elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
 
                                     <div class="post-meta">
-                                        <span><i class="far fa-user"></i> By <a href="#">John Doe</a> </span>
+                                        <!-- <span><i class="far fa-user"></i> By <a href="#">John Doe</a> </span>
                                         <span><i class="far fa-folder"></i> <a href="#">News</a>, <a href="#">Design</a> </span>
-                                        <span><i class="far fa-comments"></i> <a href="#">12 Comments</a></span>
+                                        <span><i class="far fa-comments"></i> <a href="#">12 Comments</a></span> -->
                                         <span class="d-block mt-2"><a href="/workshop2" class="btn btn-xs btn-light text-1 text-uppercase">Read More</a></span>
                                     </div>
                                 </div>
@@ -83,9 +83,9 @@
                                     <p>Euismod atras vulputate iltricies etri elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
 
                                     <div class="post-meta">
-                                        <span><i class="far fa-user"></i> By <a href="#">John Doe</a> </span>
+                                        <!-- <span><i class="far fa-user"></i> By <a href="#">John Doe</a> </span>
                                         <span><i class="far fa-folder"></i> <a href="#">News</a>, <a href="#">Design</a> </span>
-                                        <span><i class="far fa-comments"></i> <a href="#">12 Comments</a></span>
+                                        <span><i class="far fa-comments"></i> <a href="#">12 Comments</a></span> -->
                                         <span class="d-block mt-2"><a href="/workshop3" class="btn btn-xs btn-light text-1 text-uppercase">Read More</a></span>
                                     </div>
                                 </div>
@@ -105,9 +105,9 @@
                                     <p>Euismod atras vulputate iltricies etri elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
 
                                     <div class="post-meta">
-                                        <span><i class="far fa-user"></i> By <a href="#">Jessica Doe</a> </span>
+                                        <!-- <span><i class="far fa-user"></i> By <a href="#">Jessica Doe</a> </span>
                                         <span><i class="far fa-folder"></i> <a href="#">News</a>, <a href="#">Design</a> </span>
-                                        <span><i class="far fa-comments"></i> <a href="#">12 Comments</a></span>
+                                        <span><i class="far fa-comments"></i> <a href="#">12 Comments</a></span> -->
                                         <span class="d-block mt-2"><a href="/workshop4" class="btn btn-xs btn-light text-1 text-uppercase">Read More</a></span>
                                     </div>
                                 </div>
@@ -127,9 +127,9 @@
                                     <p>Euismod atras vulputate iltricies etri elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
 
                                     <div class="post-meta">
-                                        <span><i class="far fa-user"></i> By <a href="#">Robert Doe</a> </span>
+                                        <!-- <span><i class="far fa-user"></i> By <a href="#">Robert Doe</a> </span>
                                         <span><i class="far fa-folder"></i> <a href="#">News</a>, <a href="#">Design</a> </span>
-                                        <span><i class="far fa-comments"></i> <a href="#">12 Comments</a></span>
+                                        <span><i class="far fa-comments"></i> <a href="#">12 Comments</a></span> -->
                                         <span class="d-block mt-2"><a href="/workshop5" class="btn btn-xs btn-light text-1 text-uppercase">Read More</a></span>
                                     </div>
                                 </div>
@@ -149,9 +149,9 @@
                                     <p>Euismod atras vulputate iltricies etri elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
 
                                     <div class="post-meta">
-                                        <span><i class="far fa-user"></i> By <a href="#">Robert Doe</a> </span>
+                                        <!--  <span><i class="far fa-user"></i> By <a href="#">Robert Doe</a> </span>
                                         <span><i class="far fa-folder"></i> <a href="#">News</a>, <a href="#">Design</a> </span>
-                                        <span><i class="far fa-comments"></i> <a href="#">12 Comments</a></span>
+                                        <span><i class="far fa-comments"></i> <a href="#">12 Comments</a></span> -->
                                         <span class="d-block mt-2"><a href="/workshop6" class="btn btn-xs btn-light text-1 text-uppercase">Read More</a></span>
                                     </div>
                                 </div>
@@ -171,9 +171,9 @@
                                     <p>Euismod atras vulputate iltricies etri elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
 
                                     <div class="post-meta">
-                                        <span><i class="far fa-user"></i> By <a href="#">John Doe</a> </span>
+                                        <!-- <span><i class="far fa-user"></i> By <a href="#">John Doe</a> </span>
                                         <span><i class="far fa-folder"></i> <a href="#">News</a>, <a href="#">Design</a> </span>
-                                        <span><i class="far fa-comments"></i> <a href="#">12 Comments</a></span>
+                                        <span><i class="far fa-comments"></i> <a href="#">12 Comments</a></span> -->
                                         <span class="d-block mt-2"><a href="/workshop7" class="btn btn-xs btn-light text-1 text-uppercase">Read More</a></span>
                                     </div>
                                 </div>
@@ -193,9 +193,9 @@
                                     <p>Euismod atras vulputate iltricies etri elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
 
                                     <div class="post-meta">
-                                        <span><i class="far fa-user"></i> By <a href="#">Robert Doe</a> </span>
+                                        <!-- <span><i class="far fa-user"></i> By <a href="#">Robert Doe</a> </span>
                                         <span><i class="far fa-folder"></i> <a href="#">News</a>, <a href="#">Design</a> </span>
-                                        <span><i class="far fa-comments"></i> <a href="#">12 Comments</a></span>
+                                        <span><i class="far fa-comments"></i> <a href="#">12 Comments</a></span> -->
                                         <span class="d-block mt-2"><a href="/workshop8" class="btn btn-xs btn-light text-1 text-uppercase">Read More</a></span>
                                     </div>
                                 </div>
