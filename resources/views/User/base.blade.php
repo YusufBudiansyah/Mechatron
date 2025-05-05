@@ -100,19 +100,8 @@
                                                 </li>
 
                                                 <!--Services submenu navbar-->
-                                                <li class="dropdown dropdown-full-color dropdown-dark">
-                                                    <a href="/service" class="dropdown-item dropdown-toggle text-hover-primary">Services</a>
-                                                    <ul class="dropdown-menu">
-                                                        <li class="dropdown-submenu">
-                                                            <a class="dropdown-item">Stage Level</a>
-                                                            <ul class="dropdown-menu">
-                                                                <li><a class="dropdown-item" href="/survival">Survival Level</a></li>
-                                                                <li><a class="dropdown-item" href="/treshold">Waystage Level</a></li>
-                                                                <li><a class="dropdown-item" href="/waystage">Treshold Level</a></li>
-                                                                <li><a class="dropdown-item" href="/milestone">Milestone Level</a></li>
-                                                            </ul>
-                                                        </li>
 
+<<<<<<< HEAD
                                                         <li class="dropdown-submenu">
                                                             <a class="dropdown-item">Activities & Programs</a>
                                                             <ul class="dropdown-menu">
@@ -121,24 +110,10 @@
                                                                 <li><a class="dropdown-item" href="/seminar">Seminar Robotic</a></li>
                                                             </ul>
                                                         </li>
+=======
+>>>>>>> 587ecd2e83f06ff84d0451a437d4a0222bb171a9
 
-                                                        <li class="dropdown-submenu">
-                                                            <a class="dropdown-item small">Hardware & Programing</a> <!--kecilin teks hardware and programming-->
-                                                            <ul class="dropdown-menu">
-                                                                <!-- <li><a class="dropdown-item" href="/teacher">Teacher</a></li> -->
-                                                                <li><a class="dropdown-item" href="/nxtmind">NXT Mindstorm</a></li>
-                                                                <li><a class="dropdown-item" href="/linefollower">Line Follower Robot</a></li>
-                                                                <li><a class="dropdown-item" href="/microcont">Microcontroller</a></li>
-                                                                <li><a class="dropdown-item" href="/arduino">Arduino</a></li>
-                                                                <li><a class="dropdown-item" href="/elektronika">Elektronika</a></li>
-                                                            </ul>
-                                                        </li>
-                                                    </ul>
-                                                </li>
 
-                                                <!-- <li> <a class="nav-link" href="/service"> Services</a> </li> -->
-
-                                                <!--  <li> <a class="nav-link" href="/process"> Our Process </a> </li> -->
 
                                                 <!-- Product Navbar Page -->
                                                 <li class="dropdown dropdown-full-color dropdown-dark">
@@ -161,6 +136,7 @@
 
                                                 <!-- Galeri Navbar Page -->
                                                 <li class="dropdown dropdown-full-color dropdown-dark">
+<<<<<<< HEAD
                                                     <a href="/galery" class="dropdown-item dropdown-toggle text-hover-primary">Galery</a>
                                                     <ul class="dropdown-menu">
                                                         <!-- dibaris ini nambah judul kecil bernama "Foto" -->
@@ -174,6 +150,10 @@
                                                         <li><a class="dropdown-item" href="/vidiokegiatan">Video Kegiatan</a></li>
                                                         <li><a class="dropdown-item" href="/vidiotutorial">Video Tutorial</a></li>
                                                     </ul>
+=======
+                                                    <a href="/galery">Galery</a>
+
+>>>>>>> 587ecd2e83f06ff84d0451a437d4a0222bb171a9
                                                 </li>
 
                                                 <!-- partnership Navbar Page -->

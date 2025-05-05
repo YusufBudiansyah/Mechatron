@@ -25,7 +25,7 @@
             <div class="col-xl-8">
                 <div class="overflow-hidden">
                     <div class="appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="0">
-                        <h3 class="custom-font-1">Driving growth through innovative, results-focused marketing strategies and solutions</h3>
+                        <h1>Membantu pertumbuhan dan perkembangan anak dengan media teknologi dan mengedepankan inovasi dalam prosesnya</h1>
                     </div>
                 </div>
             </div>
@@ -133,7 +133,6 @@
 
                     </div>
                     <div class="col-7 col-lg-5 pb-4 gsap-content-text">
-
                         <div class="py-5 my-5">
                             <div class="gsap-content-marker" data-marker-content="img1">
                                 <div class="custom-heading-1 custom-pos-12">
