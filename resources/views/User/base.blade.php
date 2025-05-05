@@ -101,17 +101,6 @@
 
                                                 <!--Services submenu navbar-->
 
-<<<<<<< HEAD
-                                                        <li class="dropdown-submenu">
-                                                            <a class="dropdown-item">Activities & Programs</a>
-                                                            <ul class="dropdown-menu">
-                                                                <li><a class="dropdown-item" href="/intrakulikuler">Intrakulikuler</a></li>
-                                                                <li><a class="dropdown-item" href="/ekstrakulikuler">Ekstrakulikuler</a></li>
-                                                                <li><a class="dropdown-item" href="/seminar">Seminar Robotic</a></li>
-                                                            </ul>
-                                                        </li>
-=======
->>>>>>> 587ecd2e83f06ff84d0451a437d4a0222bb171a9
 
 
 
@@ -129,31 +118,15 @@
                                                             <hr class="dropdown-divider">
                                                         </li> -->
 
-                                                        <!-- dibaris ini tambahin judul foto -->
+                                                        <!-- dibaris ini tambagit hin judul foto -->
                                                         <li><a class="dropdown-item" href="/linefollower">Line Follower robot</a></li>
                                                     </ul>
                                                 </li>
 
                                                 <!-- Galeri Navbar Page -->
                                                 <li class="dropdown dropdown-full-color dropdown-dark">
-<<<<<<< HEAD
-                                                    <a href="/galery" class="dropdown-item dropdown-toggle text-hover-primary">Galery</a>
-                                                    <ul class="dropdown-menu">
-                                                        <!-- dibaris ini nambah judul kecil bernama "Foto" -->
-                                                        <li> <a href="/kegiatan" class="nav-link">Kegiatan belajar mengajar</a></li>
-                                                        <li> <a href="/mechacompe" class="nav-link">Mechatron Robotic Competition</a> </li>
-                                                        <!--  <li>
-                                                            <hr class="dropdown-divider">
-                                                        </li> -->
-
-                                                        <!-- di baris ini tambahin judul video -->
-                                                        <li><a class="dropdown-item" href="/vidiokegiatan">Video Kegiatan</a></li>
-                                                        <li><a class="dropdown-item" href="/vidiotutorial">Video Tutorial</a></li>
-                                                    </ul>
-=======
                                                     <a href="/galery">Galery</a>
 
->>>>>>> 587ecd2e83f06ff84d0451a437d4a0222bb171a9
                                                 </li>
 
                                                 <!-- partnership Navbar Page -->
