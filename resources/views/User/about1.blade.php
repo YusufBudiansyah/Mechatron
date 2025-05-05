@@ -133,7 +133,6 @@
 
                     </div>
                     <div class="col-7 col-lg-5 pb-4 gsap-content-text">
-
                         <div class="py-5 my-5">
                             <div class="gsap-content-marker" data-marker-content="img1">
                                 <div class="custom-heading-1 custom-pos-12">

@@ -39,7 +39,6 @@
                         </div>
                     </div>
                 </div>
-
                 <!-- Slide 2 -->
                 <div class="carousel-item vh-100" data-image-src="assets/img/backgrounds/1.jpg" style="background-image: url('assets/img/backgrounds/1.jpg'); background-size: cover; background-position: center; background-attachment: fixed;">
                     <div class="d-flex align-items-center justify-content-center w-100 h-100">
@@ -57,7 +56,6 @@
                     </div>
                 </div>
             </div>
-
             <!-- Carousel Controls -->
             <button class="carousel-control-prev" type="button" data-bs-target="#parallaxCarousel" data-bs-slide="prev">
                 <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -69,8 +67,6 @@
             </button>
         </div>
     </div>
-
-
     <div class="container-fluid pt-4 mb-5"> <!-- pt-4 untuk memberi jarak antara section  -->
         <!-- <div class="row">
             <div class="col-lg-6 p-0">
@@ -97,7 +93,6 @@
                 </div>
             </div>
         </div> -->
-
         <div class="row">
             <div class="col-lg-5 p-0">
                 <section class="parallax section section-background h-400px bg-size-cover m-4" style="background-image: url(assets/img/cats/cats1.jpg);">

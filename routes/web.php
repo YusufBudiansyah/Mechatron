@@ -244,6 +244,9 @@ Route::get('/Admin', function () {
     return view('admin.baseadmin');
 });
 
+Route::get('/formlanding', function () {
+    return view('admin.Content.formlanding');
+});
 
 Route::get('/dashboard', function () {
     return view('dashboard');
