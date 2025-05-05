@@ -117,19 +117,7 @@
 		</div>
 	</section>
 
-	<div class="custom-bg-gradient-1 py-5">
-		<div class="container py-5">
-			<div class="row py-5 justify-content-center">
-				<div class="col-lg-8 text-center">
-					<div class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="0">
-						<span class="bg-light text-primary d-inline-block text-3-5 rounded-pill px-4 py-1 font-weight-medium mb-3">Are You Ready?</span>
-						<h3 class="custom-font-1 mb-0">We handle every aspect of your marketing journey with expertise and dedication</h3>
-						<a href="#" class="text-dark text-hover-primary text-6 line-height-10 text-decoration-underline-2 border-width-2 d-inline-flex mt-5 font-weight-semibold">Let's Talk!</a>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
+	
 
 </div>
 

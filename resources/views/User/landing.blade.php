@@ -24,14 +24,14 @@
         <div id="parallaxCarousel" class="carousel slide w-100" data-bs-ride="carousel">
             <div class="carousel-inner">
                 <!-- Slide 1 -->
-                <div class="carousel-item active vh-100" data-image-src="assets/img/cats/cats1.jpg" style="background-image: url('assets/img/cats/cats1.jpg'); background-size: cover; background-position: center; background-attachment: fixed;">
+                <div class="carousel-item active vh-100" data-image-src="assets/img/logo-mct/fotbar.jpg" style="background-image: url('assets/img/logo-mct/fotbar.jpg'); background-size: cover; background-position: center; background-attachment: fixed;">
                     <div class="d-flex align-items-center justify-content-center w-100 h-100">
                         <div class="container text-center">
                             <div class="row justify-content-center">
                                 <div class="col-lg-9">
-                                    <h4 class="mb-4 fw-bold">Scrollable Parallax Slide 1</h4>
+                                    <h4 class="mb-4 fw-bold">KENAPA HARUS MECHATRON?</h4>
                                     <p class="mb-4 text-light">
-                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                                        Kami menawarkan sistem pembelajaran robotik yang lebih menyeluruh dan menyentuh berbagai aspek.
                                     </p>
                                     <a href="#" class="btn btn-primary btn-lg px-5 py-2">Learn More</a>
                                 </div>
@@ -45,9 +45,9 @@
                         <div class="container text-center">
                             <div class="row justify-content-center">
                                 <div class="col-lg-9">
-                                    <h4 class="mb-4 fw-bold">Scrollable Parallax Slide 2</h4>
+                                    <h4 class="mb-4 fw-bold">FOKUS</h4>
                                     <p class="mb-4 text-light">
-                                        Another inspiring text for the second slide.
+                                    Setiap kali Anda ingin meraih sesuatu, tetaplah buka mata, berkonsentrasi, dan pastikan Anda tahu persis apa yang Anda inginkan. Tidak seorang pun dapat mencapai targetnya dengan mata tertutup.
                                     </p>
                                     <a href="#" class="btn btn-success btn-lg px-5 py-2">Explore</a>
                                 </div>
@@ -93,35 +93,19 @@
                 </div>
             </div>
         </div> -->
+<<<<<<< HEAD
         <div class="row">
             <div class="col-lg-5 p-0">
                 <section class="parallax section section-background h-400px bg-size-cover m-4" style="background-image: url(assets/img/cats/cats1.jpg);">
                     <div class="container">
                         <div class="row">
                             <div class="col">
+=======
 
-                            </div>
-                        </div>
-                    </div>
-                </section>
-            </div>
-            <div class="col-lg-5 p-0">
-                <div class="h-400px m-0">
-                    <div class="row m-0">
-                        <div class="col-half-section col-half-section-left py-5">
-                            <div class="p-3">
-                                <h4 class="mb-3">Half Section</h4>
-                                <h5>(Inside Column)</h5>
-                                <p class="mb-0">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Nulla consequat massa quis enim.Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium.Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi.Aenean vulputate eleifend tellus.</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+            
+>>>>>>> dae62a6e42c49589eb3dc5feb48a553071ea83e6
 
-    <div class="container text-center mt-5">
+    <div class="container text-center">
         <div class="row justify-content-center">
             <!-- Card Pertama -->
             <div class="col-lg-4 mb-4">
@@ -130,8 +114,8 @@
                         <div class="mb-3">
                             <img src="assets/img/demos/auto-services/icons/wheel-disk.svg" width="50" class="svg-blue">
                         </div>
-                        <h3 class="text-primary fw-bold">Free Diagnosis & Brake Checks</h3>
-                        <p class="text-dark">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                        <h3 class="text-primary fw-bold">Mechanic</h3>
+                        <p class="text-dark">Mechanic merupakan bentuk badan dari robot dan mekanisme kerjanya, sehingga kurikulum yang kami ajarkan tentang bagaimana membuat bentuk dan proses kerjanya.</p>
                     </div>
                 </a>
             </div>
@@ -143,8 +127,8 @@
                         <div class="mb-3">
                             <img src="assets/img/demos/auto-services/icons/car-safe.svg" width="50" class="svg-blue">
                         </div>
-                        <h3 class="text-primary fw-bold">Car Mechanics You Can Trust</h3>
-                        <p class="text-dark">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                        <h3 class="text-primary fw-bold">Electronic</h3>
+                        <p class="text-dark">Electronic merupakan isi dari robot, mulai dari sensor hingga penggerak, dari baterai hingga tampilan display yang semuanya akan diatur oleh komputer.</p>
                     </div>
                 </a>
             </div>
@@ -156,8 +140,8 @@
                         <div class="mb-3">
                             <img src="assets/img/demos/auto-services/icons/checklist.svg" width="50" class="svg-blue">
                         </div>
-                        <h3 class="text-primary fw-bold">Oil Change & Maintenance</h3>
-                        <p class="text-dark">Perawatan rutin untuk menjaga performa mesin kendaraan Anda.</p>
+                        <h3 class="text-primary fw-bold">Computer</h3>
+                        <p class="text-dark">Seluruh proses dalam robot diatur dalam computer, sehingga untuk dapat membuat robot bergerak sesuai kebutuhan akan diperlukan kemampuan pemrograman.</p>
                     </div>
                 </a>
             </div>
@@ -256,7 +240,7 @@
                         <div class="col-lg-6">
                             <div class="text-lg-start">
                                 <div class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="0">
-                                    <strong class="custom-highlight-text-1" data-to="10" data-append="+" data-plugin-counter data-plugin-options="{'speed': 2000}">0</strong>
+                                    <strong class="custom-highlight-text-1" data-to="4" data-append="-7" data-plugin-counter data-plugin-options="{'speed': 2000}">0</strong>
                                 </div>
                             </div>
                             <div class="p-relative z-index-1">
@@ -270,7 +254,7 @@
                         <div class="col-lg-6">
                             <div class="text-lg-start">
                                 <div class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="200">
-                                    <strong class="custom-highlight-text-1" data-to="5" data-append="M+" data-plugin-counter data-plugin-options="{'speed': 2000}">0</strong>
+                                    <strong class="custom-highlight-text-1" data-to="8" data-append="-11" data-plugin-counter data-plugin-options="{'speed': 2000}">0</strong>
                                 </div>
                             </div>
                             <div class="p-relative z-index-1">
@@ -288,7 +272,7 @@
                         <div class="col-lg-6">
                             <div class="text-lg-start">
                                 <div class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="400">
-                                    <strong class="custom-highlight-text-1" data-to="100" data-append="+" data-plugin-counter data-plugin-options="{'speed': 2000}">0</strong>
+                                    <strong class="custom-highlight-text-1" data-to="12" data-append="-14" data-plugin-counter data-plugin-options="{'speed': 2000}">0</strong>
                                 </div>
                             </div>
                             <div class="p-relative z-index-1">
@@ -302,7 +286,7 @@
                         <div class="col-lg-6">
                             <div class="text-lg-start">
                                 <div class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="600">
-                                    <strong class="custom-highlight-text-1" data-to="50" data-append="+" data-plugin-counter data-plugin-options="{'speed': 2000}">0</strong>
+                                    <strong class="custom-highlight-text-1" data-to="15" data-append="-18" data-plugin-counter data-plugin-options="{'speed': 2000}">0</strong>
                                 </div>
                             </div>
                             <div class="p-relative z-index-1">
@@ -323,53 +307,43 @@
     <div class="container py-5 my-5">
         <div class="row justify-content-center">
             <div class="col-lg-9 col-xl-8 text-center">
-                <div class="overflow-hidden">
-                    <h2 class="font-weight-bold text-color-dark line-height-1 mb-0 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="250">Auto Services</h2>
+                <div class="overflow-hidden">   
+                    <h2 class="font-weight-bold text-color-dark line-height-1 mb-0 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="250">Services</h2>
                 </div>
                 <div class="d-inline-block custom-divider divider divider-primary divider-small my-3">
                     <hr class="my-0 appear-animation" data-appear-animation="customLineProgressAnim" data-appear-animation-delay="600">
                 </div>
-                <p class="font-weight-light text-3-5 mb-5 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="500">Cras a elit sit amet leo accumsan volutpat. Suspendisse hendrerit vehicula leo, vel efficitur felis ultrices non. Integer aliquet ullamcorper dolor, quis sollicitudin.</p>
+                <p class="font-weight-light text-3-5 mb-5 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="500">Kami hadir untuk membantu Anda di setiap tahap—dari ide awal, pelaksanaan program, hingga dukungan teknologi.</p>
             </div>
         </div>
         <div class="row row-gutter-sm mb-5 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="750">
-            <div class="col-sm-6 col-lg-3 text-center mb-4 mb-lg-0">
+            <div class="col-sm-6 col-lg-4 text-center mb-4 mb-lg-0">
                 <a href="demo-auto-services-services-detail.html" class="text-decoration-none">
                     <div class="custom-thumb-info-style-1 thumb-info thumb-info-no-borders thumb-info-no-borders-rounded thumb-info-lighten">
                         <div class="thumb-info-wrapper">
                             <img src="assets/img/cats/cats1.jpg" class="img-fluid" alt="">
                         </div>
-                        <h3 class="text-transform-none font-weight-bold text-5 mt-2 mb-0">Brake Repair</h3>
+                        <h3 class="text-transform-none font-weight-bold text-5 mt-2 mb-0">Stage Level</h3>
                     </div>
                 </a>
             </div>
-            <div class="col-sm-6 col-lg-3 text-center mb-4 mb-lg-0">
+            <div class="col-sm-6 col-lg-4 text-center mb-4 mb-lg-0">
                 <a href="demo-auto-services-services-detail.html" class="text-decoration-none">
                     <div class="custom-thumb-info-style-1 thumb-info thumb-info-no-borders thumb-info-no-borders-rounded thumb-info-lighten">
                         <div class="thumb-info-wrapper">
                             <img src="assets/img/cats/cats1.jpg" class="img-fluid" alt="">
                         </div>
-                        <h3 class="text-transform-none font-weight-bold text-5 mt-2 mb-0">Check Engine</h3>
+                        <h3 class="text-transform-none font-weight-bold text-5 mt-2 mb-0">Activities & Programs</h3>
                     </div>
                 </a>
             </div>
-            <div class="col-sm-6 col-lg-3 text-center mb-4 mb-sm-0">
+            <div class="col-sm-6 col-lg-4 text-center mb-4 mb-sm-0">
                 <a href="demo-auto-services-services-detail.html" class="text-decoration-none">
                     <div class="custom-thumb-info-style-1 thumb-info thumb-info-no-borders thumb-info-no-borders-rounded thumb-info-lighten">
                         <div class="thumb-info-wrapper">
                             <img src="assets/img/cats/cats1.jpg" class="img-fluid" alt="">
                         </div>
-                        <h3 class="text-transform-none font-weight-bold text-5 mt-2 mb-0">Suspension Repair</h3>
-                    </div>
-                </a>
-            </div>
-            <div class="col-sm-6 col-lg-3 text-center">
-                <a href="demo-auto-services-services-detail.html" class="text-decoration-none">
-                    <div class="custom-thumb-info-style-1 thumb-info thumb-info-no-borders thumb-info-no-borders-rounded thumb-info-lighten">
-                        <div class="thumb-info-wrapper">
-                            <img src="assets/img/cats/cats1.jpg" class="img-fluid" alt="">
-                        </div>
-                        <h3 class="text-transform-none font-weight-bold text-5 mt-2 mb-0">Transmission Repair</h3>
+                        <h3 class="text-transform-none font-weight-bold text-5 mt-2 mb-0">Hardware & Programming</h3>
                     </div>
                 </a>
             </div>
@@ -402,42 +376,42 @@
                         <div class="mx-3">
                             <div class="testimonial testimonial-style-3 testimonial-style-3-light">
                                 <blockquote class="p-3 before-d-none">
-                                    <p class="font-weight-medium text-4 line-height-5 p-3 m-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec hendrerit vehicula est, in consequat.</p>
+                                    <p class="font-weight-medium text-4 line-height-5 p-3 m-0">“Belajar di Mechatron itu asik banget! Aku bisa bikin robot jalan sendiri, terus belajar coding juga jadi gampang. Gurunya baik dan sabar ngajarin. Pokoknya gak nyesel daftar di sini!”</p>
                                 </blockquote>
                                 <div class="testimonial-arrow-down p-relative z-index-1"></div>
                                 <div class="testimonial-author">
                                     <div class="testimonial-author-thumbnail">
                                         <img src="assets/img/clients/client-1.jpg" class="img-fluid rounded-circle" alt="">
                                     </div>
-                                    <p><strong class="font-weight-extra-bold">John Smith</strong><span>CEO & Founder - Okler</span></p>
+                                    <p><strong class="font-weight-extra-bold">Celine</strong><span></span></p>
                                 </div>
                             </div>
                         </div>
                         <div class="mx-3">
                             <div class="testimonial testimonial-style-3 testimonial-style-3-light">
                                 <blockquote class="p-3 before-d-none">
-                                    <p class="font-weight-medium text-4 line-height-5 p-3 m-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec hendrerit vehicula est, in consequat.</p>
+                                    <p class="font-weight-medium text-4 line-height-5 p-3 m-0">“Awalnya aku cuma penasaran, tapi sekarang malah pengen jadi engineer beneran! Di Mechatron aku belajar rakit robot dari nol, terus ikut lomba juga. Seru banget!”</p>
                                 </blockquote>
                                 <div class="testimonial-arrow-down p-relative z-index-1"></div>
                                 <div class="testimonial-author">
                                     <div class="testimonial-author-thumbnail">
                                         <img src="assets/img/clients/client-1.jpg" class="img-fluid rounded-circle" alt="">
                                     </div>
-                                    <p><strong class="font-weight-extra-bold">John Smith</strong><span>CEO & Founder - Okler</span></p>
+                                    <p><strong class="font-weight-extra-bold">Kenzo</strong><span></span></p>
                                 </div>
                             </div>
                         </div>
                         <div class="mx-3">
                             <div class="testimonial testimonial-style-3 testimonial-style-3-light">
                                 <blockquote class="p-3 before-d-none">
-                                    <p class="font-weight-medium text-4 line-height-5 p-3 m-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec hendrerit vehicula est, in consequat.</p>
+                                    <p class="font-weight-medium text-4 line-height-5 p-3 m-0">“Dulu aku pikir teknologi itu susah, tapi di Mechatron semuanya dijelasin dengan cara yang seru. Belajar sambil praktek bikin aku cepat ngerti dan makin suka robotik.”</p>
                                 </blockquote>
                                 <div class="testimonial-arrow-down p-relative z-index-1"></div>
                                 <div class="testimonial-author">
                                     <div class="testimonial-author-thumbnail">
                                         <img src="assets/img/clients/client-1.jpg" class="img-fluid rounded-circle" alt="">
                                     </div>
-                                    <p><strong class="font-weight-extra-bold">John Smith</strong><span>CEO & Founder - Okler</span></p>
+                                    <p><strong class="font-weight-extra-bold">Vanya</strong><span></span></p>
                                 </div>
                             </div>
                         </div>
