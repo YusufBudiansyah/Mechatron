@@ -104,7 +104,7 @@
                                                     <a href="/service" class="dropdown-item dropdown-toggle text-hover-primary">Services</a>
                                                     <ul class="dropdown-menu">
                                                         <li class="dropdown-submenu">
-                                                            <a class="dropdown-item" href="/stage">Stage Level</a>
+                                                            <a class="dropdown-item">Stage Level</a>
                                                             <ul class="dropdown-menu">
                                                                 <li><a class="dropdown-item" href="/survival">Survival Level</a></li>
                                                                 <li><a class="dropdown-item" href="/waystage">Waystage Level</a></li>
@@ -114,7 +114,7 @@
                                                         </li>
 
                                                         <li class="dropdown-submenu">
-                                                            <a class="dropdown-item" href="/activities">Activities & Programs</a>
+                                                            <a class="dropdown-item">Activities & Programs</a>
                                                             <ul class="dropdown-menu">
                                                                 <li><a class="dropdown-item" href="/intrakulikuler">Intrakulikuler</a></li>
                                                                 <li><a class="dropdown-item" href="/ekstrakulikuler">Ekstrakulikuler</a></li>
@@ -124,7 +124,7 @@
                                                         </li>
 
                                                         <li class="dropdown-submenu">
-                                                            <a class="dropdown-item small" href="/hardware">Hardware & Programming</a> <!--kecilin teks hardware and programming-->
+                                                            <a class="dropdown-item small" href="/hardware">Hardware & Programing</a> <!--kecilin teks hardware and programming-->
                                                             <ul class="dropdown-menu">
                                                                 <!-- <li><a class="dropdown-item" href="/teacher">Teacher</a></li> -->
                                                                 <li><a class="dropdown-item" href="/nxtmind">NXT Mindstorm</a></li>
@@ -185,7 +185,6 @@
                                                     <ul class="dropdown-menu">
                                                         <li> <a href="/workshop" class="nav-link">Workshop</a></li>
                                                         <li> <a href="/event" class="nav-link">Event</a> </li>
-                                                        <li> <a href="/ekstrakulikuler" class="nav-link">Ekstrakulikuler</a> </li>
                                                     </ul>
                                                 </li>
 
